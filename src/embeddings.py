@@ -1,5 +1,8 @@
 import numpy as np
 import re
+import torch, torch.tensor
+from nltk import ngrams
+from torchtext import data
 
 
 def vocabulary(s):
@@ -34,7 +37,27 @@ def doc2ids(doc, word2id):
     :param word2id: indexed vocabulary
     :return:
     """
-    return list(map(lambda x: word2id.get(x, word2id['UNK']), doc.split()))
+    # idxs = list(map(lambda x: word2id.get(x, word2id['UNK']), doc.split()))
+    idxs = []
+    for word in doc.split():
+        idx = word2id.get(word, word2id['UNK'])
+        if idx == word2id['UNK']:
+            idx = word2id.get(word.capitalize(), word2id['UNK'])
+            if idx == word2id['UNK']:
+                print("mapped as unknown:" + word)
+        idxs.append(idx)
+    return torch.tensor(idxs, dtype=torch.long)
+
+
+def ids2doc(ids, word2id):
+    """
+    creates list of words given ids
+    :param ids:
+    :param word2id:
+    :return:
+    """
+    doc = list(map(lambda x: list(word2id.keys())[list(word2id.values()).index(x)], ids))
+    return doc
 
 
 def doc2bow(doc, word2id):
@@ -50,7 +73,7 @@ def doc2bow(doc, word2id):
     for w in set(doc2id):
         ret[w] = doc2id.count(w)
 
-    return ret
+    return torch.tensor(ret)
 
 
 def normalize(s):
@@ -62,6 +85,15 @@ def normalize(s):
     text = str(s)
     pattern = re.compile('[\W]+', re.UNICODE) # \W Matches any character which is not a word character.
     return pattern.sub(r' ', text.lower()).strip()
+
+
+def doc2ngrams(s,n):
+    return list(ngrams(s.split(), n))
+
+
+def giveMeNameLater():
+    TEXT = data.Field(lower=True, batch_first=True, fix_length=20)
+    LABEL = data.Field(sequential=False)
 
 
 if __name__== "__main__":
@@ -77,4 +109,3 @@ if __name__== "__main__":
     vocab = vocabulary(data.tokens)
     word2id = create_w2id(vocab)
     print(word2id)
-

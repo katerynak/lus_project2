@@ -1,6 +1,8 @@
 from data_elaboration import load, transform, Wrapped_dataset, load_words
 from embeddings import vocabulary, create_w2id, doc2ids, ids2doc
-from LSTMTagger import LSTMTagger, LSTMTagger_seq
+from LSTMTagger import LSTMTagger
+from GRU import GRU
+from RNN import RNN
 import torch
 from pred_evaluation import evaluate, write_pred_result
 from functools import partial
@@ -9,6 +11,7 @@ import torch.nn.functional as F
 import os
 from filter_w2v import get_w2v, get_w2v_w2id
 import argparse
+import numpy as np
 
 
 def data_prep(filename):
@@ -87,7 +90,7 @@ def test(model, word2id, tag2id, filename="../data/NLSPARQL.test.data"):
 
 
 if __name__== "__main__":
-    models = ["lstm", "bilstm"]
+    models = ["lstm", "bilstm", "gru", "bigru", "rnn", "birnn"]
     embeddings = ["pretrained", "train"]
 
     parser = argparse.ArgumentParser(description='script creates and trains tagging model passed as argument.')
@@ -134,8 +137,8 @@ if __name__== "__main__":
                         help='filename to save model')
 
     #args = parser.parse_args()
-    args = parser.parse_args("--model lstm --trainfile ../data/NLSPARQL.train.data --devfile "
-                             "../data/NLSPARQL.test.data --batch 20 --lr 0.001 --emb train".split())
+    args = parser.parse_args("--model rnn --trainfile ../data/NLSPARQL.train.data --devfile "
+                             "../data/NLSPARQL.test.data --batch 20 --lr 0.001 --emb pretrained".split())
 
     torch.manual_seed(1)
     device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
@@ -171,7 +174,30 @@ if __name__== "__main__":
         model = LSTMTagger(args.embedding_size, args.hidden_size, len(tag2id), device, pretrained_embeddings=pretrained,
                  vocab_size=len(word2id), w2v_weights=w2v_values, bidirectional=True, num_layers=1, drop_rate=args.dr, freeze=args.freeze)
 
+    if args.model=='gru':
+        model = GRU(args.embedding_size, args.hidden_size, len(tag2id), device, pretrained_embeddings=pretrained,
+                 vocab_size=len(word2id), w2v_weights=w2v_values, bidirectional=False, num_layers=1, drop_rate=args.dr, freeze=args.freeze)
+
+    if args.model=='bigru':
+        model = GRU(args.embedding_size, args.hidden_size, len(tag2id), device, pretrained_embeddings=pretrained,
+                 vocab_size=len(word2id), w2v_weights=w2v_values, bidirectional=True, num_layers=1, drop_rate=args.dr, freeze=args.freeze)
+
+    if args.model == 'rnn':
+        model = RNN(args.embedding_size, args.hidden_size, len(tag2id), device, pretrained_embeddings=pretrained,
+                    vocab_size=len(word2id), w2v_weights=w2v_values, bidirectional=False, num_layers=1,
+                    drop_rate=args.dr, freeze=args.freeze, jordan=True)
+
+    if args.model == 'birnn':
+        model = RNN(args.embedding_size, args.hidden_size, len(tag2id), device, pretrained_embeddings=pretrained,
+                    vocab_size=len(word2id), w2v_weights=w2v_values, bidirectional=True, num_layers=1,
+                    drop_rate=args.dr, freeze=args.freeze, jordan=True)
+
     model.to(device)
+
+    model_parameters = filter(lambda p: p.requires_grad, model.parameters())
+    total_parameters = sum([np.prod(p.size()) for p in model_parameters])
+    print("total trainable parameters %i" % total_parameters)
+
     loss_function = partial(torch.nn.functional.nll_loss, ignore_index=-1)
 
     optimizer = torch.optim.Adam(filter(lambda p: p.requires_grad, model.parameters()), lr=args.lr, amsgrad=True,
@@ -180,8 +206,6 @@ if __name__== "__main__":
     model = train(model, args.epochs, dataloader, loss_function, optimizer, trainfile=args.trainfile, devfile=args.devfile)
 
     torch.save(model.state_dict(), args.modelfile)
-
-
 
     # trainfile="../data/NLSPARQL.train.data"
     # testfile="../data/NLSPARQL.test.data"

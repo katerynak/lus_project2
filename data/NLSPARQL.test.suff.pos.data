@@ -1,0 +1,8201 @@
+tar NN O
+of IN O
+hor NN B-movie.name
+  
+who WP O
+is VBZ O
+in IN O
+the DT O
+vie NN O
+the DT B-movie.name
+ign NN I-movie.name
+  
+ist VV O
+the DT O
+ast NN O
+of IN O
+the DT O
+vie NN O
+the DT B-movie.name
+ign NN I-movie.name
+  
+who WP O
+was VBD O
+in IN O
+ght NN B-movie.name
+  
+who WP O
+is VBZ O
+in IN O
+ria NN B-movie.name
+  
+tor NN O
+rom IN O
+ost VVN B-movie.name
+  
+who WP O
+yed VVD O
+in IN O
+the DT O
+vie NN O
+cky JJ B-movie.name
+  
+who WP O
+yed VVD O
+in IN O
+the DT O
+vie NN O
+ain NN B-movie.name
+ica NN I-movie.name
+  
+ast NN O
+and CC O
+rew NN O
+for IN O
+in IN B-movie.name
+uly NN I-movie.name
+  
+who WP O
+is VBZ O
+in IN O
+vie NN O
+in IN B-movie.name
+uly RB I-movie.name
+  
+who WP O
+'s VBZ O
+in IN O
+tar NN B-movie.name
+ars NNS I-movie.name
+ode NN I-movie.name
+our CD I-movie.name
+  
+who WP O
+was VBD O
+in IN O
+llo NN B-movie.name
+een CD I-movie.name
+  
+who WP O
+was VBD O
+llo NN B-movie.name
+een CD I-movie.name
+'s VBZ O
+ast VVN O
+  
+rch NN O
+for IN O
+ion NN O
+out IN O
+the DT O
+ast NN O
+and CC O
+rew NN O
+of IN O
+olo NP B-movie.name
+een CD I-movie.name
+  
+i NP O
+uld MD O
+ike VV O
+to TO O
+now VV O
+ore JJR O
+out IN O
+the DT O
+ast NN O
+and CC O
+rew NN O
+of IN O
+the DT O
+vie NN O
+llo NN B-movie.name
+een CD I-movie.name
+  
+who WP O
+red VVD O
+in IN O
+the DT B-movie.name
+ers NNS I-movie.name
+  
+ast VVN O
+for IN O
+ing VVG B-movie.name
+emo NN I-movie.name
+  
+tor NN O
+rom IN O
+sie NN B-movie.name
+  
+ist NN O
+ors NNS O
+in IN O
+the DT O
+vie NN O
+ght NN B-movie.name
+boy NN I-movie.name
+  
+rty JJ B-movie.name
+ing NN I-movie.name
+ors NNS O
+  
+who WP O
+are VBP O
+ast VVN O
+and CC O
+rew NN O
+of IN O
+rty JJ B-movie.name
+ing NN I-movie.name
+  
+who WP O
+was VBD O
+in IN O
+tch NN B-movie.name
+  
+who WP O
+is VBZ O
+in IN O
+the DT O
+ast NN O
+of IN O
+tch NN B-movie.name
+  
+tar NN O
+of IN O
+cts NNS B-movie.name
+of IN I-movie.name
+ife NN I-movie.name
+  
+how VV O
+me PP O
+vie NN O
+its NNS O
+  
+who WP O
+oes VVZ O
+the DT O
+ces NNS O
+for IN O
+the DT O
+vie NN O
+  
+ind VV O
+vie NN O
+ors NNS O
+  
+how NN O
+its NNS O
+- : O
+ger NN B-movie.name
+  
+tar NN O
+of IN O
+ern JJ B-movie.name
+ily NN I-movie.name
+  
+ook VV O
+up RP O
+ion NN O
+out IN O
+the DT O
+ast NN O
+rew NN O
+of IN O
+go NN B-movie.name
+  
+ind VV O
+ion NN O
+out IN O
+the DT O
+ast NN O
+and CC O
+rew NN O
+of IN O
+go NN B-movie.name
+  
+who WP O
+was VBD O
+in IN O
+the DT O
+ast NN O
+of IN O
+go NN B-movie.name
+  
+can MD O
+you PP O
+ind VV O
+the DT O
+ead JJ O
+tor NN O
+in IN O
+tty JJ B-movie.name
+men NNS I-movie.name
+  
+hat WP O
+are VBP O
+the DT O
+ors NNS O
+mes NNS O
+and CC O
+rts NNS O
+in IN O
+ing VVG B-movie.name
+emo NN I-movie.name
+  
+ing VVG O
+for IN O
+mes NNS O
+of IN O
+rew NN O
+ers NNS O
+of IN O
+llo NP B-movie.name
+een CD I-movie.name
+  
+get NN O
+for IN O
+ark JJ B-movie.name
+ght NN I-movie.name
+  
+hat WP O
+was VBD O
+the DT O
+get NN O
+for IN O
+the DT B-movie.name
+her NN I-movie.name
+  
+get NN O
+for IN O
+ght NN B-movie.name
+  
+ase UH O
+ook VV O
+up RP O
+the DT O
+get NN O
+of IN O
+tep NN B-movie.name
+up RB I-movie.name
+  
+get NN O
+for IN O
+nic JJ B-movie.name
+the DT O
+vie NN O
+  
+hat WP O
+was VBD O
+the DT O
+get NN O
+for IN O
+the DT O
+vie NN O
+nic JJ B-movie.name
+  
+get NN O
+for IN O
+ron NN B-movie.name
+man NN I-movie.name
+2 CD I-movie.name
+  
+ase VV O
+ell VV O
+me PP O
+how WRB O
+uch JJ O
+was VBD O
+the DT O
+get NN O
+for IN O
+tar NN B-movie.name
+  
+how WRB O
+uch JJ O
+ney NN O
+did VVD O
+hey PP O
+end VVP O
+to TO O
+ake VV O
+tar NN B-movie.name
+  
+tar NN B-movie.name
+'s POS O
+get NN O
+  
+how WRB O
+uch RB O
+did VVD O
+tar NN B-movie.name
+ake VV O
+in IN O
+  
+ase UH O
+how VV O
+me PP O
+hat WP O
+the DT O
+get NN O
+was VBD O
+for IN O
+tar NN B-movie.name
+  
+hat WP O
+was VBD O
+the DT O
+get NN O
+for IN O
+the DT O
+tar NN B-movie.name
+vie NN O
+  
+can MD O
+you PP O
+ell VV O
+me PP O
+the DT O
+get NN O
+of IN O
+the DT O
+vie NN O
+tar NN B-movie.name
+  
+tal JJ O
+get NN O
+for IN O
+the DT O
+vie NN O
+tar NN B-movie.name
+  
+hat WP O
+was VBD O
+the DT O
+get NN O
+for IN O
+man NN B-movie.name
+ins VVZ I-movie.name
+  
+hat WP O
+was VBD O
+the DT O
+get NN O
+for IN O
+the DT B-movie.name
+ers NNS I-movie.name
+  
+hat WP O
+was VBD O
+the DT O
+get NN O
+for IN O
+one VVN B-movie.name
+ith IN I-movie.name
+the DT I-movie.name
+ind NN I-movie.name
+  
+hat WP O
+was VBD O
+ent VVN O
+on IN O
+my PP$ B-movie.name
+big JJ I-movie.name
+fat JJ I-movie.name
+eek NN I-movie.name
+ing NN I-movie.name
+  
+hat WP O
+was VBD O
+tty RB B-movie.name
+man NN I-movie.name
+'s POS O
+get NN O
+  
+hat WP O
+was VBD O
+the DT O
+get NN O
+for IN O
+lls NNS B-movie.name
+  
+how WRB O
+any JJ O
+ies NNS O
+has VHZ O
+vin NN B-actor.name
+con NN I-actor.name
+een VBN O
+the DT O
+ead JJ O
+tor NN O
+in IN O
+  
+how WRB O
+any JJ O
+tar NN B-movie.name
+ars NNS I-movie.name
+ies NNS O
+are VBP O
+ere RB O
+  
+how WRB O
+any JJ O
+ies NNS O
+are VBP O
+ted VVN O
+g NN B-rating.name
+  
+ain NN B-country.name
+has VHZ O
+how WRB O
+any JJ O
+ies NNS O
+  
+how WRB O
+any JJ O
+ies NNS O
+has VHZ O
+ten NN B-actor.name
+art NN I-actor.name
+red VVN O
+in IN O
+  
+how WRB O
+any JJ O
+ies NNS O
+has VHZ O
+ert JJ B-director.name
+ise NN I-director.name
+ted VVD O
+  
+how WRB O
+any JJ O
+ies NNS O
+did VVD O
+red NN B-director.name
+ock NN I-director.name
+ect JJ O
+  
+how WRB O
+any JJ O
+ies NNS O
+has VHZ O
+unt JJ B-producer.name
+one VVN O
+  
+i NP O
+uld MD O
+ike VV O
+to TO O
+now VV O
+the DT O
+ame NN O
+of IN O
+the DT O
+try NN O
+rom IN O
+ere WRB O
+the DT O
+vie NN O
+ati NN B-movie.name
+ang NN I-movie.name
+mes VVZ O
+  
+hat WP O
+try NN O
+is VBZ O
+ead NN B-movie.name
+  
+hat WP O
+try NN O
+ade VVD O
+ack JJ B-movie.name
+wan NN I-movie.name
+  
+hat WP O
+try NN O
+was VBD O
+ack JJ B-movie.name
+wan NN I-movie.name
+rom IN O
+  
+hat WP O
+try NN O
+was VBD O
+the DT O
+vie NN O
+ade VVD O
+  
+hat WP O
+try NN O
+did VVD O
+eep JJ B-movie.name
+lue JJ I-movie.name
+sea NN I-movie.name
+ome VVN O
+rom IN O
+  
+gin NN O
+of IN O
+nic JJ B-movie.name
+  
+gin NN O
+of IN O
+ing NN B-movie.name
+ear NN I-movie.name
+  
+hen WRB O
+ill MD O
+top JJ B-movie.name
+gun NN I-movie.name
+be VB O
+sed VVN O
+  
+ase NN O
+ear NN O
+and CC O
+ate NN O
+for IN O
+ino NN B-movie.name
+  
+hen WRB O
+did VVD O
+ill MD B-actor.name
+ell RB I-actor.name
+gin VV O
+ing VVG O
+  
+how VV O
+me PP O
+hen WRB O
+24 CD B-movie.name
+ill MD O
+be VB O
+sed VVN O
+  
+can MD O
+i NP O
+ave VHP O
+ase NN O
+ate NN O
+of IN O
+vie NN O
+  
+vie NN O
+'s POS O
+ase NN O
+ate NN O
+  
+how VV O
+me PP O
+hen WRB O
+the DT O
+vie NN O
+was VBD O
+ade VVN O
+  
+hen WRB O
+the DT O
+vie NN O
+nic JJ B-movie.name
+was VBD O
+sed VVN O
+  
+hat WP O
+ear NN O
+did VVD O
+the DT O
+ian JJ B-country.name
+vie NN O
+man NN B-movie.name
+day NN I-movie.name
+ome VVN O
+out RP O
+  
+can MD O
+you PP O
+ase VV O
+rch NN O
+for IN O
+ase NN O
+ate NN O
+for IN O
+ate NN B-movie.name
+kid NN I-movie.name
+  
+ate NN B-movie.name
+kid NN I-movie.name
+ase NN O
+ate NN O
+ase RB O
+  
+hen WRB O
+was VBD O
+rty JJ B-movie.name
+ing NN I-movie.name
+sed VVN O
+  
+hen WRB O
+was VBD O
+lls NNS B-movie.name
+sed VVN O
+  
+hen WRB O
+was VBD O
+man NN B-movie.name
+sed VVN O
+  
+hen WRB O
+was VBD O
+tty RB B-movie.name
+man NN I-movie.name
+sed VVN O
+  
+hen WRB O
+was VBD O
+men NNS B-movie.name
+in IN I-movie.name
+ack JJ I-movie.name
+sed VVN O
+  
+hen WRB O
+did VVD O
+ten NP B-actor.name
+art NP I-actor.name
+art NN O
+ing NN O
+  
+hen WRB O
+is VBZ O
+sed VVN B-movie.name
+ing VVG O
+to TO O
+be VB O
+sed VVN O
+  
+hen WRB O
+was VBD O
+ent JJ B-movie.name
+vil NN I-movie.name
+sed VVN O
+  
+ase NN O
+ate NN O
+for IN O
+ing VVG B-movie.name
+emo NN I-movie.name
+  
+hen WRB O
+was VBD O
+ing VVG B-movie.name
+emo NN I-movie.name
+sed VVN O
+  
+ase NN O
+ate NN O
+of IN O
+hum NN B-movie.name
+tum NN I-movie.name
+  
+hen WRB O
+was VBD O
+dom NN B-movie.name
+ers NNS I-movie.name
+sed VVD O
+  
+hen WRB O
+was VBD O
+tar NN B-movie.name
+sed VVN O
+  
+hen WRB O
+did VVD O
+tar NN B-movie.name
+sed VVD O
+  
+i NP O
+uld MD O
+ike VV O
+to TO O
+now VV O
+the DT O
+ase NN O
+ate NN O
+of IN O
+the DT O
+vie NN O
+tar NN B-movie.name
+  
+can MD O
+you PP O
+ell VV O
+me PP O
+hen WRB O
+was VBD O
+the DT O
+vie NN O
+tar NN B-movie.name
+sed VVD O
+  
+hen WRB O
+was VBD O
+ate NN B-movie.name
+ght NN I-movie.name
+sed VVD O
+  
+hen WRB O
+did VVD O
+ack JJ B-movie.name
+wan NN I-movie.name
+ome VVN O
+out RP O
+  
+hen WRB O
+did VVD O
+ers NNS B-movie.name
+ome VV O
+out RP O
+  
+hat WP O
+ate NN O
+did VVD O
+the DT B-movie.name
+ing JJ I-movie.name
+man NN I-movie.name
+how NN O
+for IN O
+the DT O
+1st JJ O
+ime NN O
+  
+hat WP O
+is VBZ O
+the DT O
+ase NN O
+ate NN O
+of IN O
+ria NN B-movie.name
+  
+hen WRB O
+the DT O
+vie NN O
+the DT B-movie.name
+her NN I-movie.name
+was VBD O
+sed VVN O
+  
+hen WRB O
+oes VVZ O
+per NN B-movie.name
+ome VV O
+out RP O
+  
+can MD O
+you PP O
+ell VV O
+me PP O
+the DT O
+ase NN O
+ate NN O
+of IN O
+the DT O
+vie NN O
+rfi NN B-movie.name
+  
+hat WP O
+ate NN O
+did VVD O
+the DT O
+vie NN O
+ine NN B-movie.name
+ome VVN O
+out RP O
+  
+hen WRB O
+did VVD O
+the DT O
+use NN B-movie.name
+at IN I-movie.name
+the DT I-movie.name
+end NN I-movie.name
+of IN I-movie.name
+the DT I-movie.name
+eet NN I-movie.name
+hit NN O
+ers NNS O
+  
+hat WP O
+day NN O
+is VBZ O
+fun NN B-movie.name
+ize NN I-movie.name
+ing VVG O
+out RP O
+  
+hat WP O
+day NN O
+ill NN O
+ngo NN B-movie.name
+ned VVD I-movie.name
+ome VV O
+out RP O
+  
+hen WRB O
+ill MD O
+i NP O
+be VB O
+ble JJ O
+to TO O
+iew VV O
+ron NN B-movie.name
+man NN I-movie.name
+3 CD I-movie.name
+  
+on IN O
+hat WP O
+ate NN O
+ill MD O
+ron VV B-movie.name
+man NN I-movie.name
+3 LS I-movie.name
+be VB O
+sed VVN O
+  
+who WP O
+ted VVD O
+one VVN B-movie.name
+ith IN I-movie.name
+the DT I-movie.name
+ind NN I-movie.name
+  
+who WP O
+was VBD O
+the DT O
+tor NN O
+for IN O
+ack JJ B-movie.name
+wan NN I-movie.name
+  
+ell VV O
+me PP O
+the DT O
+ted VVD O
+of IN O
+ack JJ B-movie.name
+wan NN I-movie.name
+  
+who WP O
+is VBZ O
+the DT O
+tor NN O
+of IN O
+ess JJ B-movie.name
+in IN I-movie.name
+tle NN I-movie.name
+  
+ind VV O
+who WP O
+the DT O
+tor NN O
+was VBD O
+in IN O
+men NNS B-movie.name
+in IN I-movie.name
+ack JJ I-movie.name
+3 CD I-movie.name
+  
+ate VV O
+the DT O
+tor NN O
+who WP O
+ted VVD O
+the DT O
+vie NN O
+men NNS B-movie.name
+in IN I-movie.name
+ack JJ I-movie.name
+3 CD I-movie.name
+  
+tor NN O
+of IN O
+nic JJ B-movie.name
+  
+nic JJ B-movie.name
+tor NN O
+  
+ers NNS B-movie.name
+vie NN O
+tor NN O
+  
+tor NN O
+of IN O
+vie NN O
+ers NNS B-movie.name
+  
+who WP O
+was VBD O
+the DT O
+tor NN O
+for IN O
+cho NN B-movie.name
+bre NN I-movie.name
+  
+tor NN O
+for IN O
+big JJ B-movie.name
+  
+who WP O
+was VBD O
+the DT O
+tor NN O
+of IN O
+ome NN B-movie.name
+to TO I-movie.name
+the DT I-movie.name
+use NN I-movie.name
+  
+who WP O
+ted VVD O
+the DT O
+vie NN O
+use NN B-movie.name
+at IN I-movie.name
+the DT I-movie.name
+end NN I-movie.name
+of IN I-movie.name
+the DT I-movie.name
+at IN I-movie.name
+the DT I-movie.name
+eet NN I-movie.name
+  
+who WP O
+was VBD O
+the DT O
+tor NN O
+of IN O
+the DT O
+vie NN O
+toy NN B-movie.name
+ory NN I-movie.name
+  
+ist NN O
+tor NN O
+lda NN B-movie.name
+  
+who WP O
+ted VVD O
+eld NN B-movie.name
+of IN I-movie.name
+ams NNS I-movie.name
+  
+who WP O
+is VBZ O
+the DT O
+ond JJ O
+tor NN O
+on IN O
+ing VVG B-movie.name
+emo NN I-movie.name
+  
+ind VV O
+tor NN O
+of IN O
+ing VVG B-movie.name
+emo NN I-movie.name
+  
+who WP O
+ted VVD O
+ing VVG B-movie.name
+emo NN I-movie.name
+  
+ing VVG B-movie.name
+emo NN I-movie.name
+ted VVN O
+by IN O
+who WP O
+  
+tor NN O
+of IN O
+ing VVG B-movie.name
+emo NN I-movie.name
+  
+who WP O
+ted VVD O
+tch NN B-movie.name
+  
+i NNS O
+ant VVP O
+to TO O
+now VV O
+who WP O
+is VBZ O
+the DT O
+tor NN O
+of IN O
+the DT O
+vie NN O
+man NN B-movie.name
+  
+who WP O
+is VBZ O
+tor NN O
+of IN O
+the DT B-movie.name
+rds NNS I-movie.name
+  
+who WP O
+ted VVD O
+ion CD B-movie.name
+lar NN I-movie.name
+aby NN I-movie.name
+  
+who WP O
+was VBD O
+the DT O
+guy NN O
+hat WDT O
+ted VVD O
+all NN B-movie.name
+  
+who WP O
+did VVD O
+ght NN B-movie.name
+  
+ght NN B-movie.name
+tor NN O
+  
+who WP O
+ted VVD O
+ght NN B-movie.name
+  
+who WP O
+ted VVD O
+ght NN B-movie.name
+  
+who WP O
+is VBZ O
+the DT O
+tor NN O
+of IN O
+hum NN B-movie.name
+tum NN I-movie.name
+  
+ook VV O
+for IN O
+the DT O
+tor NN O
+of IN O
+tep NN B-movie.name
+up RB I-movie.name
+  
+ase UH O
+ind VV O
+the DT O
+tor NN O
+of IN O
+dom NN B-movie.name
+ers NNS I-movie.name
+  
+ind VV O
+the DT O
+tor NN O
+of IN O
+dom NN B-movie.name
+ers NNS I-movie.name
+  
+ook VV O
+up RP O
+the DT O
+tor NN O
+of IN O
+dom NN B-movie.name
+ers NNS I-movie.name
+  
+ind VV O
+the DT O
+tor NN O
+of IN O
+dom NN B-movie.name
+ers NNS I-movie.name
+  
+who WP O
+ted VVD O
+aby NN B-movie.name
+ama NN I-movie.name
+  
+her NN B-movie.name
+tor NN O
+  
+how VV O
+me PP O
+who WP O
+ted VVD O
+the DT B-movie.name
+und NN I-movie.name
+of IN I-movie.name
+sic NN I-movie.name
+  
+who WP O
+ted VVD O
+the DT B-movie.name
+und NN I-movie.name
+of IN I-movie.name
+sic NN I-movie.name
+  
+who WP O
+ted VVD O
+the DT B-movie.name
+und NN I-movie.name
+of IN I-movie.name
+sic NN I-movie.name
+  
+ind VV O
+the DT O
+ame NN O
+of IN O
+the DT O
+tor NN O
+of IN O
+urn NN B-movie.name
+  
+how NN O
+vie NN O
+ers NNS B-movie.name
+tor NN O
+ame NN O
+  
+ame VV O
+the DT O
+tor NN O
+in IN O
+ess JJ B-movie.name
+in IN I-movie.name
+tle NN I-movie.name
+  
+hat WP O
+'s VBZ O
+the DT O
+nre NN O
+for IN O
+ack JJ B-movie.name
+wan NN I-movie.name
+  
+hat WP O
+is VBZ O
+ack JJ B-movie.name
+wan NN B-movie.name
+'s POS O
+nre NN O
+  
+hat WP O
+nre NN O
+is VBZ O
+ood NN B-movie.name
+  
+hat WP O
+ind NN O
+of IN O
+vie NN O
+is VBZ O
+ood NN B-movie.name
+  
+nre NN O
+for IN O
+ide NN B-movie.name
+and CC I-movie.name
+ice NN I-movie.name
+  
+can MD O
+you PP O
+ell VV O
+me PP O
+the DT O
+nre NN O
+of IN O
+the DT O
+vie NN O
+ess JJ B-movie.name
+  
+how VV O
+me PP O
+hat WP O
+nre NN O
+oes VVZ O
+vie NN O
+ess JJ B-movie.name
+ngs VVZ O
+to TO O
+  
+nre NN O
+for IN O
+now NN B-movie.name
+ite NN I-movie.name
+and CC I-movie.name
+the DT I-movie.name
+man NN I-movie.name
+  
+hat WP O
+is VBZ O
+the DT O
+vie NN O
+ype NN O
+  
+hat WP O
+'s VBZ O
+the DT O
+nre NN O
+of IN O
+ore NN B-movie.name
+  
+get VV O
+the DT O
+nre NN O
+of IN O
+ome NN B-movie.name
+to TO I-movie.name
+the DT I-movie.name
+use NN I-movie.name
+  
+i NNS O
+ant VVP O
+to TO O
+ind VV O
+the DT O
+nre NN O
+dom NN B-movie.name
+ers NNS I-movie.name
+is VBZ O
+in IN O
+  
+hat WP O
+nre NN O
+is VBZ O
+dom NN B-movie.name
+ers NNS I-movie.name
+in IN O
+  
+nre NN O
+for IN O
+man NN B-movie.name
+  
+ive VV O
+me PP O
+the DT O
+nre NN O
+of IN O
+the DT O
+vie NN O
+tar NN B-movie.name
+  
+i NP O
+uld MD O
+ike VV O
+to TO O
+now VV O
+the DT O
+nre NN O
+of IN O
+the DT O
+vie NN O
+tar NN B-movie.name
+  
+nre NN O
+for IN O
+bad JJ B-movie.name
+her NN I-movie.name
+  
+can MD O
+you PP O
+ell VV O
+me PP O
+tty JJ B-movie.name
+irl NN I-movie.name
+the DT O
+vie NN O
+'s POS O
+nre NN O
+  
+hat WP O
+nre NN O
+is VBZ O
+the DT O
+vie NN O
+tch NN B-movie.name
+ect JJ I-movie.name
+  
+in IN O
+hat WP O
+age NN O
+is VBZ O
+his DT O
+vie NN O
+  
+hat WP O
+age NN O
+is VBZ O
+his DT O
+vie NN O
+  
+hat WP O
+age NN O
+is VBZ O
+the DT O
+vie NN O
+ero NN B-movie.name
+in IN O
+  
+age NN O
+of IN O
+ing NN B-movie.name
+ear NN I-movie.name
+  
+age NN O
+of IN O
+asa NN B-movie.name
+nca NN I-movie.name
+  
+hat WP O
+age NN O
+is VBZ O
+ead NN B-movie.name
+on IN I-movie.name
+in IN O
+  
+age NN O
+of IN O
+ish NN B-movie.name
+  
+ind VV O
+out RP O
+hat WP O
+age NN O
+the DT B-movie.name
+her NN I-movie.name
+of IN I-movie.name
+my PP$ I-movie.name
+ren NNS I-movie.name
+is VBZ O
+in IN O
+  
+i NNS O
+am VBP O
+ted VVN O
+in IN O
+ing VVG O
+lle NN B-movie.name
+hat WP O
+ign JJ O
+age NN O
+is VBZ O
+the DT O
+vie NN O
+ble JJ O
+in IN O
+  
+i NNS O
+eed VVP O
+to TO O
+ind VV O
+out RP O
+out IN O
+mes NNS O
+of IN O
+ome DT O
+ese JJ B-movie.language
+ies NNS O
+  
+can MD O
+you PP O
+ell VV O
+me PP O
+mes NNS O
+of IN O
+ome DT O
+ese JJ B-movie.language
+ies NNS O
+  
+ron NNS B-producer.name
+ard RB I-producer.name
+ame VVP O
+ome DT O
+of IN O
+the DT O
+ies NNS O
+he PP O
+uce VVP O
+  
+ell VV O
+me PP O
+the DT O
+mes NNS O
+of IN O
+the DT O
+ies NNS O
+ced VVN O
+by IN O
+iam NP B-producer.name
+ker NN I-producer.name
+  
+out IN O
+ife NN B-movie.name
+is VBZ I-movie.name
+ful JJ I-movie.name
+  
+how VV O
+me PP O
+nfo NN O
+on IN O
+ife NN B-movie.name
+is VBZ I-movie.name
+ful JJ I-movie.name
+  
+ind VV O
+old JJ O
+ies NNS O
+  
+ind VV O
+vie NN O
+ngs NNS O
+  
+ind VV O
+wly RB O
+sed VVN O
+ies NNS O
+in IN O
+ish NN B-movie.language
+  
+was VBD O
+ill NN B-actor.name
+ton NN I-actor.name
+in IN O
+the DT O
+vie NN O
+llo NN B-movie.name
+een CD I-movie.name
+  
+was VBD O
+vin NN B-actor.name
+con NN I-actor.name
+in IN O
+the DT O
+vie NN O
+llo NN B-movie.name
+een CD I-movie.name
+  
+ind VV O
+ies NNS O
+out IN O
+ing NN B-movie.subject
+  
+rch NN O
+for IN O
+ies NNS O
+out IN O
+ing NN B-movie.subject
+  
+how NN O
+ill MD B-actor.name
+ell VV I-actor.name
+lms NNS O
+  
+ill MD B-actor.name
+ell NP I-actor.name
+ies NNS O
+  
+hat WP O
+ies NNS O
+has VHZ O
+ill NN B-actor.name
+ell NN I-actor.name
+red VVD O
+in IN O
+  
+ind VV O
+ian JJ B-movie.language
+ies NNS O
+  
+how VV O
+me PP O
+the DT O
+vie NN O
+tty JJ B-movie.name
+men NNS B-movie.name
+so IN O
+i NP O
+can MD O
+see VV O
+who WP O
+red VVD O
+in IN O
+the DT O
+vie NN O
+  
+ral JJ B-movie.name
+  
+the DT O
+vie NN O
+is VBZ O
+led VVN O
+big JJ B-movie.name
+  
+ill MD B-actor.name
+ith NN I-actor.name
+ing VVG O
+rer NN O
+  
+how WRB O
+any JJ O
+ies NNS O
+did VVD O
+ter NN B-director.name
+son NNS I-director.name
+do VVP O
+  
+ies NNS O
+and CC O
+oss JJ O
+ent NN O
+  
+rch NN O
+for IN O
+tim NN B-director.name
+ton NN I-director.name
+ies NNS O
+in IN O
+nch NNS B-movie.language
+  
+bit VV O
+all DT O
+ils NNS O
+of IN O
+nal JJ O
+ing VVG B-movie.name
+emo NN I-movie.name
+vie NN O
+  
+ing VVG B-movie.name
+emo NN I-movie.name
+vie NN O
+  
+ind VV O
+the DT O
+vie NN O
+ing VVG B-movie.name
+emo NN I-movie.name
+  
+i NNS O
+am VBP O
+ing VVG O
+for IN O
+ion NN O
+on IN O
+the DT O
+vie NN O
+ing VVG B-movie.name
+emo NN I-movie.name
+  
+how VV O
+me PP O
+ils NNS O
+for IN O
+the DT O
+vie NN O
+ing VVG B-movie.name
+emo NN I-movie.name
+  
+hat WP O
+did VVD O
+rew NN B-director.name
+ton NN I-director.name
+ect JJ O
+  
+how VV O
+me PP O
+ome DT O
+her JJ O
+ies NNS O
+ted VVN O
+by IN O
+rew JJ B-director.name
+ton NN I-director.name
+  
+lay NN O
+ert NN B-actor.name
+oks VVZ I-actor.name
+vie NN O
+  
+how VV O
+a DT O
+vie NN O
+ith IN O
+ert NN B-actor.name
+oks NNS I-actor.name
+in IN O
+the DT O
+ast NN O
+  
+hat WP O
+her JJ O
+lms NNS O
+has VHZ O
+gio NN B-director.name
+one NN I-director.name
+ted VVD O
+  
+hat WP O
+ies NNS O
+has VHZ O
+rge NN B-producer.name
+son NN I-producer.name
+ced VVD O
+  
+hat WP O
+has VHZ O
+lie NN B-actor.name
+een NN I-actor.name
+red VVN O
+in IN O
+  
+ase UH O
+ind VV O
+the DT O
+ies NNS O
+in IN O
+ich WDT O
+ive JJ B-actor.name
+wen NN I-actor.name
+has VHZ O
+red VVN O
+  
+in IN O
+ich WDT O
+ies NNS O
+has VHZ O
+ive JJ B-actor.name
+wen NNS I-actor.name
+ear VVP O
+  
+ike NN B-director.name
+lee NN I-director.name
+ted VVD O
+hat WP O
+vie NN O
+  
+rch NN O
+for IN O
+ies NNS O
+ted VVN O
+by IN O
+ike NN B-director.name
+lee NN I-director.name
+  
+vie NN O
+ase NN O
+tes NNS O
+  
+tor NN O
+ion NN O
+for IN O
+ies NNS O
+  
+ies NNS O
+by IN O
+tor NN O
+  
+ase UH O
+ist VV O
+all DT O
+ies NNS O
+not RB O
+ted VVN O
+pg NN B-rating.name
+  
+ind VV O
+ies NNS O
+  
+i NNS O
+ant VVP O
+a DT O
+ist NN O
+of IN O
+ish JJ B-movie.language
+ing NN O
+ies NNS O
+  
+a DT O
+ist NN O
+of IN O
+ies NNS O
+ade VVN O
+in IN O
+ica NN B-country.name
+  
+are VBP O
+ere RB O
+any DT O
+ies NNS O
+ced VVN O
+in IN O
+the DT B-country.name
+ted VVN B-country.name
+tes NNS I-country.name
+  
+how VV O
+ish JJ B-movie.language
+ies NNS O
+  
+rch NN O
+ish NN B-movie.language
+ies NNS O
+  
+edy NN B-movie.genre
+  
+ind VV O
+a DT O
+edy NN B-movie.genre
+  
+tch VV O
+edy NN B-movie.genre
+ies NNS O
+  
+get VV O
+ror NN B-movie.genre
+lms NNS O
+  
+how VV O
+me PP O
+ror NN B-movie.genre
+ies NNS O
+  
+i NNS O
+ant VVP O
+to TO O
+see VV O
+a DT O
+ing NN O
+of IN O
+ror NN B-movie.genre
+ies NNS O
+  
+how NN O
+tor NN O
+uce NN B-actor.name
+lis NN I-actor.name
+ies NNS O
+  
+ich WDT O
+ies NNS O
+did VVD O
+uce NN B-actor.name
+lis NNS I-actor.name
+tar JJ O
+in IN O
+  
+ist NN O
+ies NNS O
+ith IN O
+uce NN B-actor.name
+lis NNS I-actor.name
+  
+how VV O
+me PP O
+ies NNS O
+ade VVN O
+in IN O
+ada NP B-country.name
+  
+can MD O
+i NNS O
+tch VV O
+a DT O
+ian JJ B-country.name
+ilm NN O
+  
+see VV O
+ian JJ B-country.name
+ies NNS O
+  
+rch NN O
+for IN O
+ion NN O
+out IN O
+ian JJ B-country.name
+ies NNS O
+  
+I PP O
+'d MD O
+ike VV O
+to TO O
+see VV O
+ome DT O
+ian JJ B-country.name
+lms NNS O
+  
+how VV O
+me PP O
+ing NN O
+ian NN B-country.name
+- : O
+ade VVN O
+  
+i NNS O
+ant VVP O
+to TO O
+see VV O
+a DT O
+vie NN O
+rom IN O
+ain NN B-country.name
+  
+ind VV O
+ies NNS O
+rom IN O
+ain NN B-country.name
+  
+ain NN B-country.name
+try NN O
+ies NNS O
+  
+lay VV O
+a DT O
+ist NN O
+of IN O
+ish JJ B-country.name
+lms NNS O
+  
+ish JJ B-country.name
+vie NN O
+ing NN O
+  
+ish JJ B-country.name
+ies NNS O
+  
+ind VV O
+ors NNS O
+in IN O
+ies NNS O
+  
+rch NN O
+by IN O
+ors NNS O
+  
+ind VV O
+ome DT O
+tic JJ B-movie.genre
+ies NNS O
+  
+i NNS O
+ant VVP O
+to TO O
+see VV O
+a DT O
+vie NN O
+in IN O
+nch NNS B-movie.language
+  
+eth NP B-actor.name
+row NP I-actor.name
+ies NNS O
+  
+ind VV O
+ies NNS O
+ith IN O
+tin NN B-director.name
+ino NN I-director.name
+as IN O
+tor NN O
+  
+and NN B-country.name
+ies NNS O
+  
+and NN B-country.name
+ies NNS O
+ase VVP O
+  
+ind VV O
+vid JJ B-actor.name
+ant NN I-actor.name
+ies NNS O
+  
+how VV O
+me PP O
+hat WP O
+ard NN B-director.name
+ter NN I-director.name
+ted VVD O
+  
+get VV O
+lms NNS O
+in IN O
+ndi NNS B-movie.language
+  
+how VV O
+me PP O
+ies NNS O
+rom IN O
+dia NN B-country.name
+  
+hat WP O
+is VBZ O
+a DT O
+ish JJ B-country.name
+ror NN B-movie.genre
+vie NN O
+  
+i NNS O
+ant VVP O
+to TO O
+tch VV O
+an DT O
+r NN B-rating.name
+ted VVN O
+edy NN B-movie.genre
+  
+ist NN O
+of IN O
+nch JJ B-movie.language
+age NN I-movie.language
+ies NNS B-movie.genre
+  
+ook NN O
+for IN O
+rty JJ B-movie.name
+ing NN I-movie.name
+vie NN O
+ith IN O
+fer NN B-actor.name
+rey NN I-actor.name
+  
+ell VV O
+me PP O
+in IN O
+ail NN O
+out IN O
+the DT O
+vie NN O
+rty JJ B-movie.name
+ing NN I-movie.name
+  
+ell VV O
+out IN O
+vie NN O
+rty JJ B-movie.name
+ing NN I-movie.name
+  
+can MD O
+i NNS O
+see VV O
+a DT O
+ist NN O
+of IN O
+tte NN B-actor.name
+ler NN I-actor.name
+ies NNS O
+  
+ist NN O
+of IN O
+ies NNS O
+ing VVG O
+tte NN B-actor.name
+ler NN I-actor.name
+  
+how VV O
+me PP O
+all RB O
+of IN O
+nne NN B-actor.name
+way NN I-actor.name
+'s POS O
+ies NNS O
+  
+hat WP O
+ies NNS O
+has VHZ O
+dra NN B-producer.name
+ock NN I-producer.name
+ced VVD O
+  
+ind VV O
+me PP O
+ies NNS O
+rom IN O
+gal NN B-country.name
+  
+hat WP O
+ies NNS O
+has VHZ O
+ert VVN B-actor.name
+ord NNS I-actor.name
+een VBN O
+in IN O
+  
+rty JJ B-movie.name
+ing NN I-movie.name
+nfo NN O
+  
+rty JJ B-movie.name
+ing NN I-movie.name
+  
+ive VV O
+a DT O
+ort JJ O
+bio NN O
+for IN O
+rty JJ B-movie.name
+ing NN I-movie.name
+  
+out IN O
+rty JJ B-movie.name
+ing NN I-movie.name
+  
+ies NNS O
+rom IN O
+pan NN B-country.name
+  
+how NN O
+ies NNS O
+rom IN O
+pan NN B-country.name
+  
+ist NN O
+ese NN B-movie.language
+ies NNS O
+  
+how VV O
+me PP O
+ese JJ B-movie.language
+ies NNS O
+  
+ive VV O
+me PP O
+a DT O
+ist NN O
+of IN O
+ome DT O
+ese JJ B-movie.language
+ies NNS O
+  
+ive VV O
+me PP O
+a DT O
+ist NN O
+of IN O
+ese JJ B-movie.language
+ies NNS O
+  
+ese JJ B-movie.language
+ies NNS O
+  
+how VV O
+me PP O
+ese JJ B-movie.language
+age NN I-movie.language
+ies NNS O
+  
+ich WDT O
+lms NNS O
+are VBP O
+ken VVN O
+in IN O
+ese NN B-movie.language
+  
+max NN B-producer.name
+lms NNS I-producer.name
+nly RB O
+  
+how NN O
+ies NNS O
+by IN O
+max NN B-producer.name
+  
+rch NN O
+dra NN B-actor.name
+ock NN I-actor.name
+ies NNS O
+  
+tch NN O
+dra NN B-actor.name
+ock NN I-actor.name
+ies NNS O
+  
+ind VV O
+ies NNS O
+out IN O
+res NNS B-movie.subject
+  
+ind VV O
+ies NNS O
+ing VHG O
+res NNS B-movie.subject
+  
+ill MD B-actor.name
+ith NN I-actor.name
+ies NNS O
+  
+ars NNS B-movie.name
+vie NN O
+  
+hat WP O
+ies NNS O
+did VVD O
+rla NN B-producer.name
+son NN I-producer.name
+uce NN O
+  
+hat WP O
+lms NNS O
+are VBP O
+ade VVN O
+by IN O
+unt NN B-producer.name
+  
+how VV O
+me PP O
+ies NNS O
+by IN O
+unt NN B-producer.name
+  
+hat WP O
+ies NNS O
+has VHZ O
+unt JJ B-producer.name
+sed VVN O
+  
+how VV O
+all DT O
+ies NNS O
+rom IN O
+key NN B-country.name
+  
+how VV O
+me PP O
+ies NNS O
+ced VVN O
+by IN O
+uce NN B-producer.name
+lee NN I-producer.name
+  
+is VBZ O
+ood NN B-movie.name
+a DT O
+ama NN B-movie.genre
+  
+i NNS O
+ant VVP O
+to TO O
+see VV O
+an DT O
+vin NN B-actor.name
+mes VVZ I-actor.name
+ilm NN O
+ght NN O
+  
+ind VV O
+lms NNS O
+rom IN O
+ina NN B-country.name
+  
+get VV O
+lms NNS O
+rom IN O
+ina NN B-country.name
+  
+i NP O
+'d MD O
+ike VV O
+to TO O
+tch VV O
+a DT O
+vie NN O
+ade VVN O
+in IN O
+ina NN B-country.name
+  
+ist VV O
+ome DT O
+ies NNS O
+rom IN O
+ina NN B-country.name
+  
+ese JJ B-movie.language
+lms NNS O
+  
+how VV O
+me PP O
+her JJ O
+ese JJ B-movie.language
+ies NNS O
+  
+how VV O
+me PP O
+ese JJ B-movie.language
+ies NNS O
+  
+hat WP O
+ies NNS O
+ave VHP O
+a DT O
+-13 JJ B-rating.name
+ing NN O
+  
+ase VV O
+ist NN O
+ies NNS O
+hat WDT O
+are VBP O
+ted VVN O
+-13 NN B-rating.name
+  
+i NNS O
+eed VVP O
+a DT O
+g NN B-rating.name
+ing NN O
+so IN O
+i NP O
+can MD O
+ake VV O
+the DT O
+ids NNS O
+  
+ind VV O
+a DT O
+g NN B-rating.name
+ted VVN O
+vie NN O
+  
+ind VV O
+g NN B-rating.name
+ies NNS O
+  
+ind VV O
+g NN B-rating.name
+ies NNS O
+  
+i NNS O
+ant VVP O
+ted VVN O
+g NN B-rating.name
+ies NNS O
+  
+ook VV O
+up RP O
+g NN B-rating.name
+ted VVN O
+ies NNS O
+  
+i NNS O
+am VBP O
+ing VVG O
+for IN O
+any DT O
+g NN B-rating.name
+ted VVN O
+ies NNS O
+for IN O
+my PP$ O
+ren NNS O
+to TO O
+iew VV O
+  
+ted VVN O
+g NN B-rating.name
+ies NNS O
+for IN O
+ily NN O
+ing NN O
+  
+ind VV O
+g NN B-rating.name
+ted VVN O
+ies NNS O
+  
+are VBP O
+ere RB O
+any DT O
+ies NNS O
+ted VVD O
+g NN B-rating.name
+ing NN O
+  
+i NNS O
+ant VVP O
+to TO O
+see VV O
+ies NNS O
+ted VVN O
+g NN B-rating.name
+  
+ind VV O
+ies NNS O
+ted VVN O
+g NN B-rating.name
+  
+how VV O
+me PP O
+ies NNS O
+ith IN O
+g NN B-rating.name
+ing NN O
+  
+did VVD O
+ert JJ B-director.name
+ise NN I-director.name
+ect VV O
+any DT O
+her JJ O
+als NNS O
+  
+uce NN B-producer.name
+lee NN I-producer.name
+ced VVD O
+vie NN O
+ing NN O
+  
+hat WP O
+was VBD O
+the DT O
+ast JJ O
+vie NN O
+ade VVN O
+by IN O
+ert NN B-director.name
+ise NN I-director.name
+  
+ind VV O
+ies NNS O
+ced VVN O
+by IN O
+mgm NN B-producer.name
+  
+how VV O
+me PP O
+ish RB B-country.name
+ade VVD O
+ies NNS O
+  
+ies NNS O
+rom IN O
+the DT B-country.name
+uk NN I-country.name
+  
+ind VV O
+me PP O
+ies NNS O
+rom IN O
+the DT B-country.name
+uk NN I-country.name
+  
+can MD O
+you PP O
+ist VV O
+ron JJ B-producer.name
+ard JJ I-producer.name
+vie NN O
+ion NN O
+  
+i NNS O
+eed VVP O
+to TO O
+now VV O
+the DT O
+ies NNS O
+uce VVP O
+by IN O
+ron NN B-producer.name
+ard NN I-producer.name
+  
+did VVD O
+int NN B-director.name
+ood NN I-director.name
+ect VV O
+any DT O
+her JJ O
+ies NNS O
+des IN O
+ion CD B-movie.name
+lar NN I-movie.name
+aby NN I-movie.name
+  
+ind VV O
+ies NNS O
+ted VVN O
+by IN O
+int NN B-director.name
+ood NN I-director.name
+  
+hat WP O
+ies NNS O
+ave VHP O
+een VBN O
+ted VVN O
+by IN O
+int NN B-director.name
+ood NN I-director.name
+  
+ist VV O
+all DT O
+ies NNS O
+hat WDT O
+ere VBD O
+ted VVN O
+by IN O
+int NN B-director.name
+ood NN I-director.name
+  
+hat WP O
+ies NNS O
+has VHZ O
+int JJ B-director.name
+ood NN I-director.name
+ted VVD O
+  
+how NN O
+ies NNS O
+ted VVN O
+by IN O
+int NN B-director.name
+ood NN I-director.name
+  
+ind VV O
+all DT O
+lms NNS O
+by IN O
+ley NN B-director.name
+ick NN I-director.name
+  
+i NNS O
+ant VVP O
+to TO O
+ect VV O
+the DT O
+ion NN O
+to TO O
+rch VV O
+for IN O
+ies NNS O
+ced VVN O
+by IN O
+hen NN B-producer.name
+erg NN I-producer.name
+  
+i NP O
+uld MD O
+ike VV O
+to TO O
+rch VV O
+for IN O
+ies NNS O
+ced VVN O
+by IN O
+hen NN B-producer.name
+erg NN I-producer.name
+  
+how VV O
+me PP O
+ese JJ B-movie.language
+ror NN B-movie.genre
+ies NNS O
+  
+i NP O
+uld MD O
+ike VV O
+to TO O
+see VV O
+ies NNS O
+ron NNS B-director.name
+ard RB I-director.name
+ted VVN O
+  
+ies NNS O
+by IN O
+hen NN B-producer.name
+erg NN I-director.name
+  
+ies NNS O
+by IN O
+hen NN B-producer.name
+erg NN I-director.name
+  
+hat WP O
+ies NNS O
+did VVD O
+hen NN B-producer.name
+erg NNS I-director.name
+ect JJ O
+  
+ist NN O
+ven JJ B-director.name
+erg NN I-director.name
+ies NNS O
+  
+ven JJ B-director.name
+erg NN I-director.name
+vie NN O
+  
+ven JJ B-director.name
+erg NN I-director.name
+ies NNS O
+ase VVP O
+  
+ted VVN O
+by IN O
+ven JJ B-director.name
+erg NN I-director.name
+  
+ind VV O
+the DT O
+ven JJ B-director.name
+erg NN I-director.name
+ies NNS O
+  
+ind VV O
+ies NNS O
+rom IN O
+ven JJ B-director.name
+erg NN I-director.name
+  
+i NP O
+uld MD O
+ike VV O
+to TO O
+tch VV O
+a DT O
+vie NN O
+ted VVN O
+by IN O
+die NN B-director.name
+phy NN I-director.name
+  
+the DT B-movie.name
+amp NN I-movie.name
+  
+tch NN O
+dra NN B-actor.name
+ock NN I-actor.name
+the DT B-movie.name
+ind JJ I-movie.name
+ide NN I-movie.name
+  
+i NNS O
+ant VVP O
+to TO O
+see VV O
+ies NNS O
+ith IN O
+ugh NN B-actor.name
+man NN I-actor.name
+  
+ist NN O
+ies NNS O
+ith IN O
+vin NP B-actor.name
+cey NP I-actor.name
+  
+ook NN O
+for IN O
+ies NNS O
+rom IN O
+nce NN B-country.name
+  
+can MD O
+you PP O
+how VV O
+me PP O
+ies NNS O
+hat WDT O
+ere VBD O
+ade VVN O
+in IN O
+nce NN B-country.name
+  
+ind VV O
+me PP O
+any DT O
+ies NNS O
+hat WDT O
+ere VBD O
+ade VVN O
+in IN O
+nce NN B-country.name
+  
+nch NN B-movie.language
+ies NNS O
+ase VVP O
+  
+nch NN B-movie.language
+ies NNS O
+  
+ind VV O
+ies NNS O
+ced VVN O
+by IN O
+  
+ies NNS O
+by IN O
+ers NNS O
+  
+lay NN O
+ies NNS O
+ced VVN O
+by IN O
+  
+ind VV O
+ies NNS O
+ced VVN O
+by IN O
+ilm NN B-producer.name
+  
+hat WP O
+was VBD O
+ten NP B-actor.name
+art NP I-actor.name
+'s POS O
+rst JJ O
+vie NN O
+  
+get VV O
+me PP O
+ies NNS O
+ted VVN O
+by IN O
+nda NN B-director.name
+uly RB I-director.name
+  
+tom NN B-actor.name
+nks NNS I-actor.name
+ies NNS O
+  
+how VV O
+me PP O
+ies NNS O
+ith IN O
+tom NN B-actor.name
+nks NNS I-actor.name
+  
+i NNS O
+am VBP O
+ing VVG O
+to TO O
+ind VV O
+a DT O
+ist NN O
+of IN O
+ies NNS O
+ith IN O
+tom NN B-actor.name
+nks NNS I-actor.name
+  
+ide VV O
+ies NNS O
+ted VVN O
+by IN O
+ver JJR B-director.name
+one NN I-director.name
+ase VV O
+  
+i NNS O
+ant VVP O
+to TO O
+ook VV O
+for IN O
+ies NNS O
+ced VVN O
+by IN O
+ert NN B-producer.name
+ddy JJ I-producer.name
+  
+hat WP O
+are VBP O
+all RB O
+of IN O
+the DT O
+ies NNS O
+ced VVN O
+by IN O
+ert NN B-producer.name
+ddy JJ I-producer.name
+  
+ies NNS O
+ced VVN O
+by IN O
+ash NN B-producer.name
+pra NN I-producer.name
+  
+hat WP O
+did VVD O
+rad NN B-producer.name
+itt NN I-producer.name
+uce NN O
+  
+ing VV O
+up RP O
+all DT O
+rad NN B-producer.name
+itt NN I-producer.name
+ced VVD O
+ies NNS O
+  
+how VV O
+all DT O
+ies NNS O
+hat IN/that O
+nny NN B-director.name
+all NN I-director.name
+ted VVD O
+  
+i NNS O
+eed VVP O
+a DT O
+ist NN O
+of IN O
+all PDT O
+the DT O
+ies NNS O
+ted VVN O
+by IN O
+mes NNS B-director.name
+ron NN I-director.name
+  
+ive VV O
+me PP O
+a DT O
+ist NN O
+of IN O
+all PDT O
+the DT O
+ies NNS O
+ted VVN O
+by IN O
+mes NNS B-director.name
+ron NN I-director.name
+  
+mes NNS B-producer.name
+ron NN I-producer.name
+ies NNS O
+ced VVD O
+  
+ies NNS O
+ced VVN O
+by IN O
+mes NNS B-producer.name
+ron NN I-producer.name
+  
+hat WP O
+lms NNS O
+ave VHP O
+een VBN O
+ced VVN O
+by IN O
+ner NN B-producer.name
+os. NN I-producer.name
+  
+ind VV O
+ies NNS O
+ced VVN O
+by IN O
+ner NN B-producer.name
+os. NN I-producer.name
+  
+hat WP O
+ies NNS O
+ave VHP O
+een VBN O
+ced VVN O
+by IN O
+ner NN B-producer.name
+os. NN I-producer.name
+  
+how VV O
+me PP O
+ies NNS O
+by IN B-producer.name
+wb NN O
+  
+ive VV O
+me PP O
+ion NN O
+out IN O
+ing VVG B-movie.name
+emo NN I-movie.name
+  
+i NNS O
+ant VVP O
+ion NN O
+out IN O
+ing VVG B-movie.name
+emo NN I-movie.name
+  
+how VV O
+me PP O
+ing VVG B-movie.name
+emo NN I-movie.name
+  
+ing VVG B-movie.name
+emo NN I-movie.name
+ing NNS O
+  
+rch NN O
+ing NN B-movie.name
+emo NN I-movie.name
+  
+how NN O
+ion NN O
+age NN O
+for IN O
+ing VVG B-movie.name
+emo NN I-movie.name
+  
+the DT B-movie.name
+ign NN I-movie.name
+ion NN O
+  
+ore JJR O
+ion NN O
+on IN O
+llo NP B-movie.name
+een CD I-movie.name
+  
+rch NN O
+llo NN B-movie.name
+een CD I-movie.name
+  
+has VHZ O
+ten NN B-actor.name
+art NN I-actor.name
+red VVN O
+in IN O
+ies NNS O
+her JJ O
+han IN O
+ght NN B-movie.name
+  
+how VV O
+me PP O
+ten NN B-actor.name
+art NN I-actor.name
+ies NNS O
+  
+hat WP O
+ies NNS O
+has VHZ O
+ten NN B-actor.name
+ted NN I-actor.name
+red VVN O
+in IN O
+  
+ate NN B-producer.name
+ies NNS O
+  
+how NN O
+ate NN B-producer.name
+ies NNS O
+  
+how NN O
+ies NNS O
+ade VVN O
+by IN O
+ion NN O
+ate NNS B-producer.name
+  
+ive VV O
+me PP O
+ing NN O
+by IN O
+les NNS B-director.name
+dor NN I-director.name
+  
+how NN O
+les NNS B-director.name
+dor NN I-director.name
+vie NN O
+  
+hat WP O
+ilm NN O
+did VVD O
+les NNS B-director.name
+dor NN I-director.name
+ect JJ O
+  
+ich WDT O
+ies NNS O
+ave VHP O
+een VBN O
+ade VVN O
+ide IN O
+the DT B-country.name
+ted VVN I-country.name
+tes NNS I-country.name
+  
+ind VV O
+me PP O
+ria NN B-country.name
+ies NNS O
+  
+lay NN O
+7 CD B-producer.name
+rts NNS I-producer.name
+ies NNS O
+  
+ean JJ B-movie.language
+vie NN O
+  
+hat WP O
+her JJ O
+ies NNS O
+did VVD O
+rto NN B-actor.name
+gni NNS I-actor.name
+tar JJ O
+in IN O
+  
+i NNS O
+ant VVP O
+to TO O
+see VV O
+ies NNS O
+ing VVG O
+zel NN B-actor.name
+ton NNS I-actor.name
+ase VVP O
+  
+ist VV O
+the DT O
+ena NN B-actor.name
+'s POS O
+vie NN O
+  
+i NNS O
+ant VVP O
+to TO O
+tch VV O
+a DT O
+ama NN B-movie.genre
+ade VVN O
+in IN O
+key NN B-country.name
+  
+fer NP B-actor.name
+pez NP I-actor.name
+yed VVD O
+in IN O
+hat WP O
+ies NNS O
+  
+how VV O
+me PP O
+all RB O
+of IN O
+the DT O
+ies NNS O
+ted VVN O
+by IN O
+ody JJ B-director.name
+len NN I-director.name
+  
+how NN O
+ert NN B-director.name
+ise JJ I-director.name
+ies NNS O
+  
+ant VVP O
+to TO O
+see VV O
+ert JJ B-director.name
+ise JJ I-director.name
+ies NNS O
+  
+hat WP O
+ies NNS O
+has VHZ O
+ert JJ B-director.name
+ise NN I-director.name
+ted VVD O
+  
+hat WP O
+ies NNS O
+ave VHP O
+ert JJ B-director.name
+ise NN I-director.name
+ted VVD O
+  
+ere WRB O
+can MD O
+i NNS O
+ind VV O
+a DT O
+ist NN O
+of IN O
+ies NNS O
+ced VVN O
+by IN O
+ris NN B-producer.name
+lan NN I-producer.name
+  
+hat WP O
+ies NNS O
+has VHZ O
+rad NN B-actor.name
+itt NN I-actor.name
+een VBN O
+in IN O
+  
+hat WP O
+are VBP O
+the DT O
+ies NNS O
+rad NN B-actor.name
+itt NN I-actor.name
+had VHD O
+een VBN O
+in IN O
+  
+hat WP O
+are VBP O
+ome DT O
+ies NNS O
+ith IN O
+rad NN B-actor.name
+itt NN I-actor.name
+  
+ind VV O
+an DT O
+r NN B-rating.name
+ted VVN O
+vie NN O
+  
+how VV O
+me PP O
+r NN B-rating.name
+ted VVN O
+ies NNS O
+  
+ive VV O
+me PP O
+a DT O
+ist NN O
+of IN O
+r NN B-rating.name
+ted VVN O
+ies NNS O
+  
+ook VV O
+up RB O
+r SYM B-rating.name
+ted VVN O
+ies NNS O
+  
+i NNS O
+ant VVP O
+nly RB O
+r SYM B-rating.name
+ted VVN O
+ies NNS O
+  
+i NNS O
+ant VVP O
+to TO O
+see VV O
+a DT O
+ist NN O
+of IN O
+ted VVN O
+r NN B-rating.name
+ies NNS O
+  
+how VV O
+me PP O
+nly JJ O
+ies NNS O
+ith IN O
+a DT O
+ing NN O
+of IN O
+r NN B-rating.name
+  
+ase UH O
+ook VV O
+for IN O
+ies NNS O
+ith IN O
+an DT O
+r NN B-rating.name
+ing NN O
+  
+how VV O
+me PP O
+ies NNS O
+ted VVN O
+r NN B-rating.name
+  
+ook NN O
+for IN O
+ies NNS O
+ith IN O
+an DT O
+r NN B-rating.name
+ing NN O
+  
+ive VV O
+me PP O
+a DT O
+ist NN O
+of IN O
+all DT O
+ies NNS O
+hat WDT O
+are VBP O
+ted VVN O
+r NN B-rating.name
+  
+i NNS O
+ant VVP O
+to TO O
+tch VV O
+ies NNS O
+rom IN O
+way NN B-country.name
+  
+can MD O
+i NP O
+ave VHP O
+a DT O
+ist NN O
+of IN O
+ish JJ B-movie.language
+ing NN O
+ies NNS O
+  
+how VV O
+me PP O
+ies NNS O
+ade VVN O
+in IN O
+ico NN B-country.name
+  
+how VV O
+me PP O
+the DT O
+vie NN O
+pot NN B-movie.name
+ies NNS I-movie.name
+  
+hat WP O
+ies NNS O
+ave VHP O
+ies NNS B-movie.subject
+in IN O
+hem PP O
+  
+how VV O
+me PP O
+ies NNS O
+out IN O
+ies NNS B-movie.subject
+  
+how VV O
+me PP O
+ies NNS O
+out IN O
+ies NNS B-movie.subject
+  
+how VV O
+me PP O
+nes NNS O
+by IN O
+vid JJ B-director.name
+her NN I-director.name
+  
+how VV O
+ley NP B-director.name
+ott NP I-director.name
+'s POS O
+phy NN O
+  
+ind VV O
+ley NP B-director.name
+ott NP I-director.name
+ies NNS O
+  
+can MD O
+you PP O
+how VV O
+me PP O
+ies NNS O
+ted VVN O
+by IN O
+ley NP B-director.name
+ott NP I-director.name
+  
+ist NN O
+man NN B-movie.language
+ies NNS O
+  
+man JJ B-movie.language
+ies NNS O
+  
+ind VV O
+ion NN B-movie.genre
+lms NNS O
+  
+ind VV O
+ome DT O
+ion NN B-movie.genre
+ies NNS O
+  
+ist NN O
+edd NN B-movie.name
+vie NN O
+  
+how VV O
+me PP O
+rge VV B-director.name
+cas NNS I-director.name
+ies NNS O
+  
+ind VV O
+ies NNS O
+ted VVN O
+by IN O
+rge NN B-director.name
+cas NNS I-director.name
+  
+ced VVN O
+by IN O
+  
+ase UH O
+ind VV O
+ies NNS O
+ced VVN O
+by IN O
+gan NN B-producer.name
+man NN I-producer.name
+  
+ase UH O
+ook VV O
+up RP O
+ies NNS O
+ced VVN O
+by IN O
+gan NN B-producer.name
+man NN I-producer.name
+  
+rch NN O
+for IN O
+ies NNS O
+ced VVN O
+by IN O
+gan NN B-producer.name
+man NN I-producer.name
+  
+ind VV O
+ies NNS O
+ced VVN O
+by IN O
+gan NN B-producer.name
+man NN I-producer.name
+  
+ook VV O
+up RP O
+ies NNS O
+ced VVN O
+by IN O
+gan NN B-producer.name
+man NN I-producer.name
+  
+hat WP O
+ies NNS O
+has VHZ O
+ryl NN B-actor.name
+eep NNS I-actor.name
+red VVN O
+in IN O
+  
+how VV O
+me PP O
+the DT O
+ies NNS O
+ted VVN O
+by IN O
+the DT O
+tor NN O
+of IN O
+his DT O
+vie NN O
+  
+i NNS O
+ant VVP O
+to TO O
+see VV O
+ies NNS O
+ade VVN O
+in IN O
+sia NN B-country.name
+  
+ook VVP O
+up RB O
+tar VV B-movie.name
+ars NNS I-movie.name
+our CD I-movie.name
+vie NN O
+  
+lay VV O
+all DT O
+ils NNS O
+out IN O
+tar NN B-movie.name
+ars NNS I-movie.name
+- : I-movie.name
+a DT I-movie.name
+new JJ I-movie.name
+ope NN I-movie.name
+vie NN O
+  
+get VV O
+all DT O
+ils NNS O
+out IN O
+tar NN B-movie.name
+ars NNS I-movie.name
+- : I-movie.name
+a DT I-movie.name
+new JJ I-movie.name
+ope NN I-movie.name
+vie NN O
+  
+tar NN B-movie.name
+ars NNS I-movie.name
+ode NN I-movie.name
+our CD I-movie.name
+  
+i NNS O
+ant VVP O
+tar NN B-movie.name
+ars NNS I-movie.name
+our CD I-movie.name
+ain JJ O
+age NN O
+  
+rch NN O
+tar NN B-movie.name
+ars NNS I-movie.name
+our CD I-movie.name
+  
+ind VV O
+me PP O
+ons NNS O
+of IN O
+nfo NN O
+ted VVN O
+to TO O
+tar VV B-movie.name
+ars NNS I-movie.name
+our CD I-movie.name
+  
+get VV O
+ils NNS O
+of IN O
+in IN B-movie.name
+uly JJ I-movie.name
+vie NN O
+  
+ind VV O
+ils NNS O
+of IN O
+in IN B-movie.name
+uly JJ I-movie.name
+vie NN O
+  
+how NN O
+ils NNS O
+of IN O
+in IN B-movie.name
+uly JJ I-movie.name
+vie NN O
+  
+ell VV O
+me PP O
+out RB O
+in IN B-movie.name
+uly JJ I-movie.name
+vie NN O
+  
+ook VV O
+up RP O
+the DT O
+vie NN O
+in IN B-movie.name
+uly RB I-movie.name
+  
+lay NN O
+ion NN O
+for IN O
+the DT O
+vie NN O
+tle NN O
+in IN B-movie.name
+uly RB I-movie.name
+  
+vie NN O
+in IN B-movie.name
+uly JJ I-movie.name
+ata NNS O
+  
+ere WRB O
+can MD O
+i NNS O
+ind VV O
+the DT O
+vie NN O
+hen NN B-movie.name
+in IN O
+ndi NN B-movie.language
+  
+lay NN O
+lia NN B-actor.name
+rts NNS I-actor.name
+lms NNS O
+  
+ist VV O
+the DT O
+ies NNS O
+hat WDT O
+ave VHP O
+the DT O
+ess NN O
+ina NN B-actor.name
+lie NN I-actor.name
+  
+tin NN B-actor.name
+man NN I-actor.name
+ies NNS O
+  
+hat WP O
+ies NNS O
+did VVD O
+vid JJ B-director.name
+yer NN I-director.name
+ect JJ O
+  
+i NP O
+uld MD O
+ike VV O
+to TO O
+iew VV O
+ies NNS O
+ced VVN O
+by IN O
+int NN B-producer.name
+ood NN I-producer.name
+  
+ist VV O
+all DT O
+ies NNS O
+out IN O
+ses NNS B-movie.subject
+  
+ind VV O
+all DT O
+nny NN B-actor.name
+epp NN I-actor.name
+ies NNS O
+  
+rch NN O
+by IN O
+tor NN O
+  
+rch NN O
+by IN O
+tor NN O
+  
+is VBZ O
+ere RB O
+any DT O
+ing JJ O
+ies NNS O
+rom IN O
+ner NN B-producer.name
+ers NNS I-producer.name
+  
+ing VV O
+up RP O
+ies NNS O
+ith IN O
+ice NN B-movie.subject
+ing VVG I-movie.subject
+in IN O
+it PP O
+  
+ind VV O
+wly RB O
+sed VVN O
+ies NNS B-movie.genre
+rom IN O
+and NN B-country.name
+  
+i NP O
+eed NN O
+nfo NN O
+on IN O
+use NN B-movie.name
+at IN I-movie.name
+the DT I-movie.name
+end NN I-movie.name
+of IN I-movie.name
+the DT I-movie.name
+eet NN I-movie.name
+  
+hat WP O
+is VBZ O
+the DT O
+ses NNS B-movie.name
+at IN I-movie.name
+the DT I-movie.name
+end NN I-movie.name
+of IN I-movie.name
+the DT I-movie.name
+eet NN I-movie.name
+out RB O
+  
+ive VV O
+me PP O
+ore JJR O
+cts NNS O
+out IN O
+the DT O
+vie NN O
+use NN B-movie.name
+at IN I-movie.name
+the DT I-movie.name
+end NN I-movie.name
+of IN I-movie.name
+the DT I-movie.name
+eet NN I-movie.name
+in IN O
+ail NN O
+  
+i NP O
+uld MD O
+ike VV O
+to TO O
+now VV O
+in IN O
+ail NN O
+out IN O
+the DT O
+vie NN O
+use NN B-movie.name
+at IN I-movie.name
+the DT I-movie.name
+end NN I-movie.name
+of IN I-movie.name
+the DT I-movie.name
+eet NN I-movie.name
+  
+lay NN O
+vie NN O
+ion NN O
+for IN O
+the DT O
+ilm NN O
+use NN B-movie.name
+at IN I-movie.name
+the DT I-movie.name
+end NN I-movie.name
+of IN I-movie.name
+the DT I-movie.name
+eet NN I-movie.name
+  
+lms NNS O
+ith IN O
+ese NN B-movie.language
+  
+i NNS O
+ant VVP O
+to TO O
+tch VV O
+a DT O
+vie NN O
+in IN O
+ese NN B-movie.language
+  
+ind VV O
+ies NNS O
+ced VVN O
+and CC O
+ted VVN O
+by IN O
+ler NN B-producer.name
+rry NN I-producer.name
+  
+tom NN B-actor.name
+ise NN I-actor.name
+ies NNS O
+ase VVP O
+  
+i NNS O
+ant VVP O
+tom NN B-actor.name
+ise NN I-actor.name
+ies NNS O
+ase VVP O
+  
+ich WDT O
+ies NNS O
+tar VVP O
+tom NN B-actor.name
+ise NN I-actor.name
+  
+ich WDT O
+ies NNS O
+do VVP O
+tom NN B-actor.name
+ise NN I-actor.name
+lay VVP O
+in IN O
+  
+ind VV O
+end NN B-movie.name
+of IN I-movie.name
+tch NN I-movie.name
+  
+rch NN O
+by IN O
+nre NN O
+  
+ing VVG O
+for IN O
+ies NNS O
+of IN O
+ash NN B-director.name
+pra NN I-director.name
+  
+ind VV O
+me PP O
+ion NN O
+out IN O
+the DT B-movie.name
+ign NN I-movie.name
+vie NN O
+  
+ion NN O
+for IN O
+vie NN O
+the DT B-movie.name
+ign NN I-movie.name
+  
+how VV O
+me PP O
+nfo NN O
+on IN O
+the DT O
+vie NN O
+the DT B-movie.name
+ign NN I-movie.name
+ase RB O
+  
+i NNS O
+eed VVP O
+to TO O
+see VV O
+all PDT O
+the DT O
+ils NNS O
+out IN O
+the DT O
+vie NN O
+the DT B-movie.name
+ign NN I-movie.name
+  
+ort VV O
+all DT O
+pg NN B-rating.name
+ies NNS O
+  
+pg NN B-rating.name
+ted VVD O
+ies NNS O
+  
+ess VV O
+a DT O
+ist NN O
+of IN O
+pg NN B-rating.name
+ies NNS O
+ase VVP O
+  
+ive VV O
+me PP O
+a DT O
+ist NN O
+of IN O
+pg NN B-rating.name
+ies NNS O
+  
+can MD O
+you PP O
+ind VV O
+me PP O
+a DT O
+ist NN O
+of IN O
+pg NN B-rating.name
+ted VVN O
+ies NNS O
+to TO O
+tch VV O
+  
+how VV O
+me PP O
+a DT O
+ist NN O
+of IN O
+pg NN B-rating.name
+ted VVN O
+ies NNS O
+  
+ind VV O
+ies NNS O
+ith IN O
+a DT O
+pg NN B-rating.name
+ing NN O
+  
+hat WP O
+ies NNS O
+are VBP O
+pg JJ B-rating.name
+  
+ies NNS O
+by IN O
+red NN B-director.name
+ock NN I-director.name
+  
+hat WP O
+ies NNS O
+did VVD O
+red NN B-director.name
+ock NN I-director.name
+ake VV O
+  
+tch VV O
+ook NN B-director.name
+ies NNS O
+  
+i NNS O
+ant VVP O
+to TO O
+see VV O
+any DT O
+ent JJ O
+ies NNS O
+ing VVG O
+tom NN B-actor.name
+nks NNS I-actor.name
+  
+i NNS O
+ant VVP O
+a DT O
+ist NN O
+of IN O
+ent JJ O
+ies NNS O
+ted VVN O
+pg NN B-rating.name
+  
+ive VV O
+me PP O
+a DT O
+ist NN O
+of IN O
+ent JJ O
+ies NNS O
+ted VVN O
+pg NN B-rating.name
+  
+ray NN B-producer.name
+ark RB I-producer.name
+ced VVD O
+hat WP O
+her JJ O
+ies NNS O
+  
+hat WP O
+is VBZ O
+erg NP B-producer.name
+'s POS O
+est JJS O
+vie NN O
+  
+ase UH O
+ind VV O
+ies NNS O
+ted VVN O
+by IN O
+tom NN B-director.name
+nks NNS I-director.name
+  
+are VBP O
+ere RB O
+any DT O
+ent JJ O
+ies NNS O
+hat WDT O
+are VBP O
+ish NN B-movie.language
+ing NN O
+  
+hat WP O
+ies NNS O
+has VHZ O
+tom NN B-actor.name
+ise NN I-actor.name
+een VBN O
+in IN O
+tly RB O
+  
+rch NN O
+for IN O
+new JJ O
+ies NNS O
+  
+rch NN O
+for IN O
+in IN B-movie.name
+uly NN I-movie.name
+  
+tch VV O
+in IN B-movie.name
+uly RB I-movie.name
+ine JJ O
+  
+rch NN O
+for IN O
+ion NN O
+out IN O
+ate NNS B-producer.name
+  
+ate JJ B-producer.name
+nfo NN O
+  
+ind VV O
+ion NN O
+out IN O
+unt JJ B-producer.name
+ios NNS I-producer.name
+  
+who WP O
+is VBZ O
+ray NN B-person.name
+ark JJ I-person.name
+  
+ind VV O
+ion NN O
+on IN O
+les NNS B-person.name
+dor NN I-person.name
+  
+i NNS O
+ant VVP O
+to TO O
+ook VV O
+up RP O
+ion NN O
+out IN O
+tom NN B-person.name
+ise NN I-person.name
+  
+can MD O
+you PP O
+ase VV O
+rch NN O
+ils NNS O
+out RB O
+ill MD B-person.name
+ell VV I-person.name
+  
+ill MD B-person.name
+ell NP I-person.name
+phy NN O
+  
+how NN O
+ill MD B-person.name
+ell VV I-person.name
+phy NN O
+  
+how VV O
+me PP O
+a DT O
+ete JJ O
+phy NN O
+of IN O
+ill NN B-person.name
+ell NN I-person.name
+  
+how VV O
+me PP O
+ion NN O
+on IN O
+ill NN B-person.name
+ell NN I-person.name
+  
+how VV O
+me PP O
+ill MD B-person.name
+ell NN I-person.name
+'s POS O
+bio NN O
+  
+get VV O
+nfo NN O
+on IN O
+ten NP B-person.name
+art NN I-person.name
+  
+oes VVZ O
+ten NP B-person.name
+art NP I-person.name
+ave VHP O
+a DT O
+nal JJ O
+age NN O
+  
+ere WRB O
+can MD O
+i NNS O
+ind VV O
+ion NN O
+out IN O
+ten NP B-person.name
+art NN I-person.name
+  
+fer NN B-person.name
+ton NN I-person.name
+bio NN O
+  
+i NNS O
+ant VVP O
+to TO O
+see VV O
+erg NP B-person.name
+'s POS O
+ain JJ O
+age NN O
+  
+ven JJ B-person.name
+erg NN I-person.name
+ary NN O
+  
+out IN O
+ven JJ B-person.name
+erg NN I-person.name
+  
+ind VV O
+me PP O
+bio NN O
+ils NNS O
+for IN O
+ven JJ B-person.name
+erg NN I-person.name
+  
+bio NN O
+for IN O
+ven JJ B-person.name
+erg NN I-person.name
+  
+how VV O
+me PP O
+red NN B-person.name
+ock NN I-person.name
+  
+i NNS O
+ant VVP O
+ore JJR O
+ion NN O
+out IN O
+red NP B-person.name
+ock NP I-person.name
+'s POS O
+phy NN O
+  
+all DT O
+nfo NN O
+ock NN B-person.name
+  
+ind VV O
+the DT O
+ame NN O
+of IN O
+the DT O
+cer NN O
+of IN O
+tar NN B-movie.name
+  
+cer NN O
+tch NN B-movie.name
+  
+who WP O
+ces VVZ O
+tch NN B-movie.name
+  
+ion NN O
+any NN O
+for IN O
+ers NNS B-movie.name
+  
+hat WP O
+any NN O
+ade VVD O
+et FW B-movie.name
+  
+hat WP O
+was VBD O
+the DT O
+ion NN O
+any NN O
+for IN O
+et FW B-movie.name
+  
+who WP O
+ces VVZ O
+ars NNS B-movie.name
+  
+can MD O
+you PP O
+ind VV O
+who WP O
+ced VVD O
+ars NNS B-movie.name
+  
+ion NN O
+any NN O
+for IN O
+vil NN B-movie.name
+  
+who WP O
+ced VVD O
+the DT O
+vie NN O
+eel NN B-movie.name
+ias NNS I-movie.name
+  
+who WP O
+ced VVD O
+tar NN B-movie.name
+  
+i NNS O
+ant VVP O
+to TO O
+now VV O
+the DT O
+cer NN O
+of IN O
+tar NN B-movie.name
+  
+who WP O
+ced VVD O
+tar NN B-movie.name
+  
+who WP O
+ced VVD O
+tar NN B-movie.name
+  
+tar NN B-movie.name
+cer NN O
+  
+i NP O
+uld MD O
+ike VV O
+to TO O
+now VV O
+who WP O
+ced VVD O
+the DT O
+vie NN O
+tar NN B-movie.name
+  
+who WP O
+ced VVD O
+the DT O
+vie NN O
+tar NN B-movie.name
+  
+who WP O
+are VBP O
+the DT O
+ers NNS O
+for IN O
+the DT O
+vie NN O
+tar NN B-movie.name
+  
+hat WP O
+is VBZ O
+ase NN B-movie.name
+'s POS O
+cer NN O
+  
+who WP O
+ced VVD O
+ase NN B-movie.name
+  
+who WP O
+ced VVD O
+the DT O
+vie NN O
+my PP$ B-movie.name
+big JJ I-movie.name
+fat JJ I-movie.name
+eek NN I-movie.name
+ing NN I-movie.name
+  
+who WP O
+ced VVD O
+tty JJ B-movie.name
+man NN I-movie.name
+  
+ell VV O
+me PP O
+the DT O
+cer NN O
+for IN O
+the DT B-movie.name
+her NN I-movie.name
+  
+the DT B-movie.name
+her NN I-movie.name
+was VBD O
+ced VVN O
+by IN O
+  
+who WP O
+ced VVD O
+the DT O
+vie NN O
+lue NN B-movie.name
+  
+who WP O
+ced VVD O
+tel NN B-movie.name
+nda NN I-movie.name
+  
+who WP O
+ced VVD O
+ley NN B-movie.name
+and CC I-movie.name
+me PP I-movie.name
+  
+who WP O
+ced VVD O
+ble JJ B-movie.name
+me PP I-movie.name
+  
+who WP O
+is VBZ O
+the DT O
+any NN O
+hat WDT O
+ced VVD O
+the DT O
+vie NN O
+ion NN B-movie.name
+  
+hat WP O
+any NN O
+ped VVD O
+the DT O
+vie NN O
+ion NN B-movie.name
+  
+ind VV O
+cer NN O
+of IN O
+the DT B-movie.name
+eat JJ I-movie.name
+ers NNS I-movie.name
+  
+who WP O
+ced VVD O
+ion NN B-movie.name
+  
+ide VV O
+the DT O
+ame NN O
+of IN O
+the DT O
+any NN O
+hat WDT O
+ced VVD O
+kle NN B-movie.name
+  
+i NNS O
+eed VVP O
+to TO O
+now VV O
+the DT O
+any NN O
+hat WDT O
+ced VVD O
+kle NN B-movie.name
+  
+ind VV O
+the DT O
+cer NN O
+of IN O
+ook NN B-movie.name
+who WP I-movie.name
+'s VBZ I-movie.name
+ing VVG I-movie.name
+  
+who WP O
+ced VVD O
+lem NN B-movie.name
+hts NNS I-movie.name
+  
+ind VV O
+the DT O
+cer NN O
+of IN O
+tep NN B-movie.name
+up RB I-movie.name
+  
+ase UH O
+ind VV O
+the DT O
+cer NN O
+of IN O
+dom NN B-movie.name
+ers NNS I-movie.name
+  
+ook VV O
+for IN O
+the DT O
+cer NN O
+of IN O
+dom NN B-movie.name
+ers NNS I-movie.name
+  
+how VV O
+me PP O
+vie NN O
+ing NN O
+  
+how WRB O
+uch JJ O
+nue NN O
+did VVD O
+tty RB B-movie.name
+man NN I-movie.name
+ake VV O
+  
+ngs NNS O
+for IN O
+tty JJ B-movie.name
+man NN I-movie.name
+  
+hat WP O
+was VBD O
+the DT O
+nue NN O
+of IN O
+tty JJ B-movie.name
+man NN I-movie.name
+  
+how WRB O
+uch RB O
+did VVD O
+tty RB B-movie.name
+man NN I-movie.name
+ake VV O
+  
+hat WP O
+was VBD O
+the DT O
+oss JJ O
+nue NN O
+for IN O
+the DT B-movie.name
+ers NNS I-movie.name
+  
+how WRB O
+uch RB O
+did VVD O
+the DT B-movie.name
+ers NNS I-movie.name
+ake VVP O
+  
+nue NN O
+for IN O
+the DT B-movie.name
+ers NNS I-movie.name
+  
+how WRB O
+uch RB O
+did VVD O
+the DT B-movie.name
+ark JJ I-movie.name
+ght NN I-movie.name
+ate VV O
+in IN O
+ues NNS O
+  
+ind VV O
+nue NN O
+als NNS O
+for IN O
+sic JJ B-movie.name
+ark NN I-movie.name
+  
+nue NN O
+for IN O
+nce NN B-movie.name
+day NN I-movie.name
+  
+hat WP O
+is VBZ O
+the DT O
+new JJ O
+ill NN B-actor.name
+ell NN I-actor.name
+vie NN O
+out RB O
+  
+who WP O
+yed VVD O
+the DT O
+ice NN O
+of IN O
+emo NN B-character.name
+in IN O
+ing VVG B-movie.name
+emo NN I-movie.name
+  
+who WP O
+yed VVD O
+hie NN B-character.name
+ham NN I-character.name
+in IN O
+ppy JJ B-movie.name
+ays NNS I-movie.name
+  
+who WP O
+ars VVZ O
+in IN O
+use NN B-movie.name
+at IN I-movie.name
+the DT I-movie.name
+end NN I-movie.name
+of IN I-movie.name
+the DT I-movie.name
+eet NN I-movie.name
+  
+how VV O
+me PP O
+the DT O
+ast NN O
+for IN O
+the DT O
+use NN B-movie.name
+at IN I-movie.name
+the DT I-movie.name
+end NN I-movie.name
+of IN I-movie.name
+the DT I-movie.name
+eet NN I-movie.name
+  
+ast NN O
+and CC O
+rew NN O
+of IN O
+use NN B-movie.name
+at IN I-movie.name
+the DT I-movie.name
+end NN I-movie.name
+of IN I-movie.name
+the DT I-movie.name
+eet NN I-movie.name
+  
+hel NN B-character.name
+ess NN O
+rom IN O
+i NP B-movie.name
+ove NN I-movie.name
+ucy NN I-movie.name
+  
+ess NN O
+who WP O
+yed VVD O
+hel NN B-character.name
+on IN O
+i NP B-movie.name
+ove NN I-movie.name
+ucy NN I-movie.name
+  
+who WP O
+are VBP O
+the DT O
+ast NN O
+ers NNS O
+in IN O
+ord NN B-movie.name
+of IN I-movie.name
+the DT I-movie.name
+ngs VVZ I-movie.name
+the DT I-movie.name
+two CD I-movie.name
+ers NNS I-movie.name
+  
+who WP O
+yed VVD O
+eye NN B-character.name
+in IN O
+ash NN B-movie.name
+  
+who WP O
+yed VVD O
+her NN B-character.name
+in IN O
+sky NP B-director.name
+'s POS O
+ror NN B-movie.name
+  
+how VV O
+me PP O
+the DT O
+tor NN O
+of IN O
+the DT O
+vie NN O
+ala NN B-movie.name
+ggu NN I-movie.name
+  
+who WP O
+are VBP O
+the DT O
+ids NNS B-character.name
+in IN O
+tar NN B-movie.name
+ars NNS I-movie.name
+ode NN I-movie.name
+our CD I-movie.name
+  
+who WP O
+was VBD O
+hat DT O
+guy NN O
+ain RB O
+who WP O
+was VBD O
+in IN O
+the DT B-movie.name
+ers NNS I-movie.name
+  
+ich WDT O
+tor NN O
+yed VVD O
+odo NN B-character.name
+in IN O
+ord NN B-movie.name
+of IN I-movie.name
+the DT I-movie.name
+ngs NNS I-movie.name
+  
+ind VV O
+the DT O
+ame NN O
+of IN O
+the DT O
+ess NN O
+who WP O
+yed VVD O
+her NN B-character.name
+in IN O
+ror NN B-movie.name
+by IN O
+rey NN B-director.name
+sky NN I-director.name
+  
+hat WP O
+is VBZ O
+the DT O
+ame NN O
+of IN O
+the DT O
+ess NN O
+who WP O
+yed VVD O
+her NN B-character.name
+in IN O
+sky NP B-director.name
+'s POS O
+ror NN B-movie.name
+  
+hat WP O
+is VBZ O
+the DT O
+ame NN O
+of IN O
+the DT O
+tor NN O
+who WP O
+yed VVD O
+odd NNS B-character.name
+in IN O
+the DT O
+tv NN O
+how VVP O
+one CD B-movie.name
+ife NN I-movie.name
+to TO I-movie.name
+ive VV I-movie.name
+  
+ive VV O
+me PP O
+the DT O
+ame NN O
+of IN O
+the DT O
+ain JJ O
+ess NN O
+in IN O
+oon NN B-movie.name
+  
+hat WP O
+'s VBZ O
+the DT O
+ame NN O
+of IN O
+the DT O
+mom NN B-character.name
+on IN O
+eld NP B-movie.name
+  
+ame VV O
+the DT O
+tar NN O
+in IN O
+oot NN B-movie.name
+to TO I-movie.name
+ill VV I-movie.name
+  
+hat WP O
+is VBZ O
+the DT O
+ame NN O
+of IN O
+the DT O
+tor NN O
+who WP O
+yed VVD O
+cus NN B-character.name
+nch NN I-character.name
+in IN O
+to TO B-movie.name
+ill VV I-movie.name
+a DT I-movie.name
+ird NN I-movie.name
+  
+how VV O
+me PP O
+the DT O
+ame NN O
+of IN O
+the DT O
+guy NN O
+who WP O
+was VBD O
+the DT O
+her NN B-character.name
+and CC I-character.name
+a DT I-character.name
+yer NN I-character.name
+in IN O
+to TO B-movie.name
+ill VV I-movie.name
+a DT I-movie.name
+ird NN I-movie.name
+  
+ase UH O
+ide VV O
+the DT O
+ost NN O
+for IN O
+ing VVG O
+the DT O
+eer NN B-movie.name
+ter NN I-movie.name
+  
+hat WP O
+is VBZ O
+the DT O
+get NN O
+for IN O
+pic NN B-movie.name
+  
+rch NN O
+get NN O
+for IN O
+the DT O
+vie NN O
+pic NN B-movie.name
+  
+hat WP O
+was VBD O
+the DT O
+get NN O
+for IN O
+ire NN B-movie.name
+oof NN I-movie.name
+  
+hat WP O
+was VBD O
+the DT O
+get NN O
+for IN O
+fly NN B-movie.name
+ele NN I-movie.name
+  
+hat WP O
+was VBD O
+the DT O
+get NN O
+for IN O
+1st JJ O
+rry VVP B-movie.name
+ter NN I-movie.name
+vie NN O
+  
+how WRB O
+uch RB O
+was VBD O
+ent VVN O
+on IN O
+ing VVG O
+the DT O
+ast JJ O
+rry VV B-movie.name
+ter NN I-movie.name
+ilm NN O
+  
+how WRB O
+uch RB O
+oes VVZ O
+it PP O
+ost VVD O
+to TO O
+uce VV O
+per NN B-movie.name
+  
+how WRB O
+uch RB O
+did VVD O
+it PP O
+ost VVD O
+to TO O
+uce VV O
+per NN B-movie.name
+  
+how WRB O
+uch JJ O
+ney NN O
+was VBD O
+ent VVN O
+to TO O
+uce VV O
+per NN B-movie.name
+  
+how WRB O
+uch RB O
+did VVD O
+men NNS B-movie.name
+in IN I-movie.name
+ack JJ I-movie.name
+3 CD I-movie.name
+ost NN O
+  
+how WRB O
+uch RB O
+was VBD O
+it PP O
+to TO O
+ake VV O
+man NN B-movie.name
+  
+how VV O
+me PP O
+the DT O
+get NN O
+to TO O
+bel JJ B-movie.name
+vie NN O
+  
+how VV O
+me PP O
+the DT O
+get NN O
+for IN O
+tar NN B-movie.name
+ars NNS I-movie.name
+2 CD I-movie.name
+  
+how WRB O
+uch RB O
+did VVD O
+it PP O
+ost VVD O
+to TO O
+ate VV O
+the DT B-movie.name
+alk NN I-movie.name
+ire NN I-movie.name
+  
+how VV O
+me PP O
+the DT O
+get NN O
+for IN O
+les NNS B-movie.name
+1 CD I-movie.name
+  
+hat WP O
+was VBD O
+the DT O
+get NN O
+for IN O
+ing VVG B-movie.name
+emo NN I-movie.name
+in IN O
+3d JJ O
+  
+ate NNS B-producer.name
+  
+ich WDT O
+try NN O
+ade VVD O
+ine NN B-movie.name
+  
+hat WP O
+try NN O
+led VVD O
+les FW B-movie.name
+mes FW I-movie.name
+  
+hat WP O
+try NN O
+is VBZ O
+les FW B-movie.name
+mes FW I-movie.name
+rom IN O
+  
+ere WRB O
+was VBD O
+the DT O
+ilk NN B-movie.name
+of IN I-movie.name
+row NN I-movie.name
+ade VVD O
+  
+hat WP O
+try NN O
+is VBZ O
+ank NN B-movie.name
+ion NN I-movie.name
+  
+hat WP O
+try NN O
+oes VVZ O
+the DT O
+vie NN O
+oda NN B-movie.name
+aar NN I-movie.name
+oda NN I-movie.name
+gic NN I-movie.name
+mes VVZ O
+rom IN O
+  
+ell VV O
+me PP O
+ere WRB O
+the DT O
+ite JJ B-movie.name
+bon NN I-movie.name
+ame VVD O
+rom IN O
+  
+hen WRB O
+was VBD O
+the DT O
+vie NN O
+rfi NN B-movie.name
+! SENT I-movie.name
+sed VVN O
+  
+hat WP O
+are VBP O
+the DT O
+tes NNS O
+for IN O
+the DT O
+vie NN O
+rfi NN B-movie.name
+! SENT I-movie.name
+  
+ase NN O
+ate NN O
+of IN O
+the DT O
+new JJ O
+ugs NNS B-movie.name
+nny NN I-movie.name
+ilm NN O
+  
+hat WP O
+is VBZ O
+the DT O
+ase NN O
+ate NN O
+of IN O
+vil NN B-movie.name
+oes VVZ I-movie.name
+bal JJ I-movie.name
+  
+hat WP O
+is VBZ O
+the DT O
+ase NN O
+ate NN O
+for IN O
+aws NNS B-movie.name
+17 CD I-movie.name
+in IN O
+the DT O
+ers NNS O
+  
+hat WP O
+is VBZ O
+the DT O
+ase NN O
+ate NN O
+for IN O
+sic JJ B-movie.name
+ark NN I-movie.name
+4 CD I-movie.name
+  
+ist NN O
+ase NN O
+tes NNS O
+for IN O
+the DT O
+sic JJ B-movie.name
+ark NN I-movie.name
+ies NNS O
+  
+hen WRB O
+ill MD O
+the DT O
+vie NN O
+omg JJ B-movie.name
+oh UH I-movie.name
+my PP$ I-movie.name
+god NN I-movie.name
+be VB O
+sed VVN O
+  
+hen WRB O
+was VBD O
+the DT O
+ord NN B-movie.name
+of IN I-movie.name
+the DT I-movie.name
+ngs NNS I-movie.name
+vie NN O
+sed VVD O
+  
+ats NNS O
+mal JJ B-movie.name
+ies NNS I-movie.name
+ase NN O
+ate NN O
+  
+hen WRB O
+ill MD O
+cop RB B-movie.name
+ome VV O
+out RP O
+  
+hen WRB O
+was VBD O
+nch NN B-movie.name
+be VB O
+sed VVN O
+  
+hen WRB O
+was VBD O
+the DT B-movie.name
+und NN I-movie.name
+of IN I-movie.name
+sic NN I-movie.name
+sed VVN O
+  
+hen WRB O
+ill MD O
+ght NN B-movie.name
+ing VVG I-movie.name
+awn NN I-movie.name
+art NN I-movie.name
+2 CD I-movie.name
+be VB O
+sed VVN O
+  
+who WP O
+ted VVD O
+ai VVP B-movie.name
+  
+ind VV O
+the DT O
+tor NN O
+of IN O
+ton NN B-movie.name
+bey NN I-movie.name
+  
+who WP O
+ted VVD O
+ood JJ B-movie.name
+bad JJ I-movie.name
+and CC I-movie.name
+gly JJ I-movie.name
+  
+i NP O
+can MD O
+'t NP O
+ber VV O
+who WP O
+ted VVD O
+tar NN B-movie.name
+ars NNS I-movie.name
+  
+ind VV O
+the DT O
+tor NN O
+of IN O
+to TO B-movie.name
+ill VV I-movie.name
+a DT I-movie.name
+ird NN I-movie.name
+  
+is VBZ O
+lie NN B-movie.name
+in IN O
+a DT O
+ent JJ O
+age NN O
+  
+hat WP O
+age NN O
+was VBD O
+lie NN B-movie.name
+med VVN O
+in IN O
+  
+hat WP O
+age NN O
+is VBZ O
+the DT O
+ull JJ B-movie.name
+nty NN I-movie.name
+in IN O
+  
+hat WP O
+is VBZ O
+ju NN B-movie.name
+on RB I-movie.name
+'s POS O
+nal JJ O
+age NN O
+  
+hat WP O
+age NN O
+is VBZ O
+ets NNS B-movie.name
+and CC I-movie.name
+ies VVZ I-movie.name
+in IN O
+  
+ive VV O
+me PP O
+mes NNS O
+of IN O
+ome DT O
+ion NN B-movie.genre
+ies NNS O
+ith IN O
+a DT O
+pg NN B-rating.name
+een CD I-rating.name
+ing NN O
+  
+how VV O
+all DT O
+edy NN B-movie.genre
+als NNS B-movie.genre
+for IN O
+nty CD B-movie.release_date
+lve NN I-movie.release_date
+  
+are VBP O
+ere RB O
+any DT O
+ies NNS B-movie.genre
+on IN O
+sic JJ B-movie.subject
+ars NNS I-movie.subject
+  
+how VV O
+all DT O
+mas NN B-movie.genre
+ced VVN O
+in IN O
+010 CD B-movie.release_date
+  
+ind VV O
+ome DT O
+ies NNS B-movie.genre
+  
+rch NN O
+tic JJ B-movie.genre
+ies NNS I-movie.genre
+  
+-fi NN B-movie.genre
+  
+how VV O
+me PP O
+rns NNS B-movie.genre
+  
+how NN O
+car NN B-movie.subject
+ies NNS B-movie.genre
+  
+how VV O
+me PP O
+a DT O
+tie NP B-actor.name
+mes NP I-actor.name
+ick NN B-movie.type
+  
+i NNS O
+ant VVP O
+to TO O
+see VV O
+eos NNS B-movie.type
+of IN O
+ven JJ B-director.name
+erg NN I-director.name
+  
+eos NNS B-movie.type
+ted VVN O
+to TO O
+ven JJ B-director.name
+erg NN I-director.name
+  
+new JJ O
+sed VVN O
+eos NNS B-movie.type
+  
+i NNS O
+ant VVP O
+to TO O
+see VV O
+ian NN B-country.name
+ies NNS O
+  
+how VV O
+all DT O
+ian JJ B-country.name
+ies NNS O
+for IN O
+een CD B-movie.release_date
+hty CD I-movie.release_date
+  
+hat WP O
+ies NNS O
+ere VBD O
+ade VVN O
+in IN O
+and NN B-country.name
+his DT B-movie.release_date
+ear NN I-movie.release_date
+  
+ind VV O
+ino NN B-country.name
+ies NNS O
+in IN O
+ish NN B-movie.language
+  
+how VV O
+me PP O
+the DT O
+ing JJ O
+ies NNS O
+rom IN O
+gal NN B-country.name
+  
+ind VV O
+ies NNS O
+in IN O
+ica NN B-country.name
+out IN O
+ama NN B-movie.subject
+  
+i NP O
+'d MD O
+ove VV O
+to TO O
+tch VV O
+an DT O
+ert NN B-director.name
+ddy JJ I-director.name
+vie NN O
+  
+hat WP O
+her JJ O
+lms NNS O
+has VHZ O
+hur NN B-director.name
+ddy JJ I-director.name
+one VVN O
+  
+ing VV O
+up RP O
+all DT O
+ies NNS O
+rad NN B-director.name
+itt NN I-director.name
+ted VVD O
+  
+hat WP O
+ies NNS O
+has VHZ O
+rad NN B-director.name
+itt NN I-director.name
+ted VVD O
+  
+ies NNS O
+by IN O
+vid JJ B-director.name
+nic NN I-director.name
+  
+did VVD O
+lly NN B-director.name
+ter NN I-director.name
+ect VV O
+any DT O
+ies NNS O
+  
+hat WP O
+ies NNS O
+did VVD O
+joe NN B-director.name
+oen NNS I-director.name
+do VVP O
+  
+ies NNS O
+by IN O
+ohn NN B-director.name
+aul NNS I-director.name
+as IN O
+a DT O
+tor NN O
+  
+how VV O
+me PP O
+ies NNS O
+ted VVN O
+by IN O
+ohn NN B-director.name
+aul NNS I-director.name
+  
+tom NN B-director.name
+ise NN I-director.name
+has VHZ O
+ted VVN O
+hat WP O
+ies NNS O
+  
+ase UH O
+ist VV O
+all DT O
+ies NNS O
+ted VVN O
+by IN O
+tom NN B-director.name
+ise NN I-director.name
+  
+ley NN B-director.name
+pes NNS I-director.name
+ted VVD O
+hat WP O
+vie NN O
+  
+ind VV O
+ion NN B-movie.genre
+ies NNS O
+ith IN O
+ohn NN B-actor.name
+lta NN I-actor.name
+  
+how VV O
+all DT O
+ion NN B-movie.genre
+lms NNS O
+for IN O
+nty CD B-movie.release_date
+lve NN I-movie.release_date
+  
+ted JJ B-movie.genre
+pg NN B-rating.name
+een CD I-rating.name
+ies NNS O
+  
+sfi NN B-movie.genre
+ies NNS O
+  
+i NP O
+ike IN O
+-fi NN B-movie.genre
+ies NNS O
+  
+how VV O
+me PP O
+lms NNS O
+sed VVN O
+in IN O
+ber NN B-movie.release_date
+  
+how VV O
+all DT O
+ies NNS O
+sed VVN O
+in IN O
+ber NN B-movie.release_date
+  
+ook VV O
+up RP O
+all DT O
+ies NNS O
+ing VVG O
+in IN O
+ber NN B-movie.release_date
+  
+ind VV O
+ies NNS O
+for IN O
+nty CD B-movie.release_date
+ten CD I-movie.release_date
+  
+ost RBS O
+ent JJ O
+bie NN B-movie.subject
+ies NNS O
+  
+rch NN O
+for IN O
+ies NNS O
+in IN O
+ese NN B-movie.language
+  
+ind VV O
+me PP O
+ies NNS O
+hat WDT O
+are VBP O
+in IN O
+ese NN B-movie.language
+  
+i NNS O
+ant VVP O
+to TO O
+see VV O
+a DT O
+ist NN O
+of IN O
+all DT O
+ies NNS O
+own VVN O
+in IN O
+ish NN B-movie.language
+  
+ind VV O
+ies NNS O
+in IN O
+rsi NNS B-movie.language
+  
+end VV O
+me PP O
+ies NNS O
+hat WDT O
+are VBP O
+in IN O
+nch NN B-movie.language
+  
+ind VV O
+ies NNS O
+in IN O
+nch NNS B-movie.language
+  
+i NP O
+uld MD O
+ike VV O
+a DT O
+ist NN O
+of IN O
+ies NNS O
+in IN O
+nch NNS B-movie.language
+  
+ies NNS O
+in IN O
+nch NNS B-movie.language
+  
+i NNS O
+ant VVP O
+to TO O
+ind VV O
+ies NNS O
+ing VVG O
+the DT O
+nch JJ B-movie.language
+age NN O
+  
+i NNS O
+ant VVP O
+ies NNS O
+in IN O
+nch NNS B-movie.language
+  
+ind VV O
+ies NNS O
+in IN O
+man NN B-movie.language
+ore IN O
+000 CD B-movie.release_date
+  
+ive VV O
+me PP O
+ome DT O
+ies NNS O
+ich WDT O
+ere VBD O
+med VVN O
+in IN O
+ish NN B-movie.language
+  
+ind VV O
+ies NNS O
+in IN O
+ese NN B-movie.language
+  
+how VV O
+all DT O
+ies NNS O
+in IN O
+ish NN B-movie.language
+  
+ist NN O
+of IN O
+ies NNS O
+in IN O
+the DT O
+ish JJ B-movie.language
+age NN O
+  
+ies NNS O
+in IN O
+ish NN B-movie.language
+  
+i NNS O
+am VBP O
+ing VVG O
+for IN O
+ies NNS O
+in IN O
+ish NN B-movie.language
+  
+i NP O
+uld MD O
+ike VV O
+to TO O
+ook VV O
+for IN O
+ies NNS O
+in IN O
+ish NN B-movie.language
+  
+ind VV O
+ies NNS O
+in IN O
+ili NNS B-movie.language
+  
+how VV O
+me PP O
+a DT O
+ist NN O
+of IN O
+all DT O
+ies NNS O
+ced VVN O
+by IN O
+red NNS B-producer.name
+ddy JJ I-producer.name
+  
+hat WP O
+her JJ O
+ies NNS O
+les NNS B-producer.name
+dor NN I-producer.name
+uce NN O
+  
+has VHZ O
+fer NN B-producer.name
+ton NN I-producer.name
+ced VVD O
+ies NNS O
+  
+how VV O
+me PP O
+the DT O
+ies NNS O
+ced VVN O
+by IN O
+m NN B-producer.name
+s NN I-producer.name
+aju NN I-producer.name
+  
+ist VV O
+the DT O
+ies NNS O
+ted VVN O
+by IN O
+7 CD B-producer.name
+rts NNS I-producer.name
+  
+ate NN B-producer.name
+= SYM O
+i FW O
+uld MD O
+ike VV O
+to TO O
+get VV O
+a DT O
+ist NN O
+of IN O
+our PP$ O
+ies NNS O
+rom IN O
+two CD B-movie.release_date
+and CD I-movie.release_date
+and CC I-movie.release_date
+ine CD I-movie.release_date
+to TO I-movie.release_date
+two CD I-movie.release_date
+and CD I-movie.release_date
+and CC I-movie.release_date
+lve NN I-movie.release_date
+  
+eth JJ B-producer.name
+ury NN I-producer.name
+fox NN I-producer.name
+ies NNS O
+012 CD B-movie.release_date
+  
+how VV O
+me PP O
+nc NN B-rating.name
+nus CC I-rating.name
+een CD I-rating.name
+ted VVN O
+ies NNS O
+  
+how VV O
+me PP O
+ies NNS O
+ith IN O
+not RB B-rating.name
+ted VVN I-rating.name
+ing NN O
+  
+ive VV O
+me PP O
+a DT O
+ist NN O
+of IN O
+nr NN B-rating.name
+ies NNS O
+  
+hat WP O
+is VBZ O
+a DT O
+ist NN O
+of IN O
+pg NN B-rating.name
+een CD I-rating.name
+ion NN B-movie.genre
+ies NNS O
+  
+i NNS O
+ant VVP O
+to TO O
+see VV O
+a DT O
+pg NN B-rating.name
+een CD I-rating.name
+vie NN O
+  
+how VV O
+me PP O
+a DT O
+ete JJ O
+ist NN O
+of IN O
+r NN B-rating.name
+ted VVN O
+ies NNS O
+hat WDT O
+ame VVD O
+out RP O
+in IN O
+the DT B-movie.release_date
+ast JJ I-movie.release_date
+30 CD I-movie.release_date
+ays NNS I-movie.release_date
+  
+how VV O
+me PP O
+all DT O
+ted VVN O
+r NN B-rating.name
+ies NNS O
+by IN O
+unt NN B-producer.name
+  
+how VV O
+me PP O
+ies NNS O
+hat WDT O
+are VBP O
+ted JJ B-rating.name
+  
+ist NN O
+ies NNS O
+rom IN O
+995 CD B-movie.release_date
+ith IN O
+dam NN B-actor.name
+ler NN I-actor.name
+  
+i NNS O
+ant VVP O
+to TO O
+see VV O
+ies NNS O
+ith IN O
+lan JJ B-actor.name
+man NN I-actor.name
+  
+ich WDT O
+ies NNS O
+has VHZ O
+ina NN B-actor.name
+lie NN I-actor.name
+red VVD O
+his DT B-movie.release_date
+son NN I-movie.release_date
+  
+hat WP O
+vie NN O
+was VBD O
+ina VVG B-actor.name
+a DT O
+ain JJ B-character.name
+ess NN I-character.name
+  
+ook VV O
+up RP O
+ies NNS O
+ing VVG O
+the DT O
+ger NN B-actor.type
+rio NN B-actor.name
+  
+i NNS O
+ant VVP O
+to TO O
+ind VV O
+ies NNS O
+ing VVG O
+the DT O
+ger NN B-actor.type
+rio NN B-actor.name
+  
+ook NN O
+for IN O
+ies NNS O
+ith IN O
+max NP B-actor.name
+von NP I-actor.name
+dow NN I-actor.name
+  
+how VV O
+me PP O
+ies NNS O
+hat WDT O
+ave VHP O
+ick JJ B-actor.name
+yze NNS I-actor.name
+and CC O
+fer NN B-actor.name
+rey NN I-actor.name
+in IN O
+hem PP O
+  
+how VV O
+me PP O
+ies NNS O
+hat IN/that O
+tar JJ O
+ick NN B-actor.name
+yze NNS I-actor.name
+red VVN O
+in IN O
+rom IN O
+een CD B-movie.release_date
+hty CD I-movie.release_date
+ven CD I-movie.release_date
+  
+hat WP O
+is VBZ O
+hat DT O
+ing VVG B-movie.subject
+vie NN O
+ith IN O
+ick NN B-actor.name
+yze NNS I-actor.name
+  
+ies NNS O
+of IN O
+ukh NN B-actor.name
+han NN I-actor.name
+  
+vie NN O
+hat IN/that O
+tom NN B-actor.name
+nks NNS I-actor.name
+and CC O
+vin NN B-actor.name
+con NN I-actor.name
+yed VVN O
+in IN O
+her RB O
+  
+ies NNS O
+out IN O
+als NNS B-movie.subject
+  
+how VV O
+me PP O
+ies NNS O
+out IN O
+ood NN B-movie.subject
+  
+ess NN B-movie.subject
+ies NNS O
+  
+how VV O
+me PP O
+ies NNS O
+on IN O
+ess NN B-movie.subject
+  
+hat WP O
+are VBP O
+ome DT O
+ies NNS O
+out IN O
+sco NN B-movie.subject
+  
+hat WP O
+ies NNS O
+can MD O
+fer VV O
+ips NNS O
+on IN O
+ing NN B-movie.subject
+  
+i NNS O
+ant VVP O
+to TO O
+ook VV O
+up RP O
+ies NNS O
+out IN O
+air NN B-movie.subject
+  
+ind VV O
+ies NNS O
+out IN O
+ies NNS B-movie.subject
+  
+ind VV O
+ome DT O
+ies NNS O
+out IN O
+ans NNS B-movie.subject
+  
+can MD O
+you PP O
+ind VV O
+ies NNS O
+out IN O
+ool JJ B-movie.subject
+oys NNS I-movie.subject
+  
+ook NN O
+for IN O
+ies NNS O
+out IN O
+ool JJ B-movie.subject
+oys NNS I-movie.subject
+  
+hat WP O
+lms NNS O
+cus VVP O
+on IN O
+ape NN B-movie.subject
+and CC I-movie.subject
+tim NN I-movie.subject
+'s POS I-movie.subject
+hts NNS I-movie.subject
+  
+i NP O
+uld MD O
+ike VV O
+to TO O
+now VV O
+mes NNS O
+of IN O
+ome DT O
+ies NNS O
+on IN O
+ous JJ B-movie.subject
+ues NNS I-movie.subject
+  
+ive VV O
+me PP O
+a DT O
+ist NN O
+of IN O
+ome DT O
+ies NNS O
+on IN O
+ous JJ B-movie.subject
+ues NNS I-movie.subject
+  
+ook NN O
+for IN O
+ies NNS O
+out IN O
+ool NN B-movie.subject
+  
+ell VV O
+me PP O
+the DT O
+mes NNS O
+of IN O
+ome DT O
+cer NN B-movie.subject
+ies NNS O
+  
+hat WP O
+are VBP O
+ome DT O
+ime NN B-movie.subject
+vel NN I-movie.subject
+ies NNS O
+i NP O
+can MD O
+tch VV O
+  
+how VV O
+me PP O
+ies NNS O
+ing VVG O
+ime NN B-movie.subject
+vel NN I-movie.subject
+  
+ire NN B-movie.subject
+ies NNS O
+ase VVP O
+  
+ist NN O
+ies NNS O
+ith IN O
+a DT O
+eme NN O
+of IN O
+war NN B-movie.subject
+in IN O
+hem PP O
+  
+how VV O
+all DT O
+ies NNS O
+ith IN O
+the DT O
+eme NN O
+of IN O
+war NN B-movie.subject
+  
+can MD O
+you PP O
+ind VV O
+me PP O
+ome DT O
+ies NNS O
+out IN O
+war NN B-movie.subject
+  
+i NNS O
+ant VVP O
+a DT O
+ist NN O
+of IN O
+ies NNS O
+out IN O
+war NN B-movie.subject
+  
+i NNS O
+ant VVP O
+ies NNS O
+out IN O
+war NN B-movie.subject
+  
+ind VV O
+ies NNS O
+out IN O
+rld NN B-movie.subject
+war NN I-movie.subject
+two CD I-movie.subject
+  
+hat WP O
+are VBP O
+ome DT O
+bie NN B-movie.subject
+pse NN I-movie.subject
+ies NNS O
+  
+rch NN O
+for IN O
+bie NN B-movie.subject
+ies NNS O
+  
+how VV O
+me PP O
+lle NN B-movie.name
+in IN O
+ish NN B-movie.language
+  
+is VBZ O
+edd RB B-movie.name
+ted VVN O
+r NN B-rating.name
+  
+ake VV O
+me PP O
+to TO O
+the DT O
+nch JJ B-movie.language
+ion NN O
+of IN O
+et FW B-movie.name
+  
+ind VV O
+et NP B-movie.name
+in IN O
+nch NN B-movie.language
+  
+ind VV O
+ast JJ B-movie.name
+and CC I-movie.name
+ous JJ I-movie.name
+in IN O
+ese NN B-movie.language
+  
+ard JJ B-movie.name
+day NN I-movie.name
+'s POS I-movie.name
+ght NN I-movie.name
+ard NN B-director.name
+ter NN I-director.name
+  
+ion NN O
+out IN O
+vie NN O
+ife NN B-movie.name
+is VBZ I-movie.name
+ful JJ I-movie.name
+  
+vie NN O
+ion NN O
+for IN O
+ife NN B-movie.name
+is VBZ I-movie.name
+ful JJ I-movie.name
+  
+ill MD O
+you PP O
+ase VV O
+how VV O
+me PP O
+nfo NN O
+on IN O
+the DT O
+vie NN O
+ife NN B-movie.name
+is VBZ I-movie.name
+ful JJ I-movie.name
+  
+can MD O
+you PP O
+ase VV O
+how VV O
+me PP O
+nfo NN O
+on IN O
+the DT O
+vie NN O
+ife NN B-movie.name
+is VBZ I-movie.name
+ful JJ I-movie.name
+  
+how VV O
+me PP O
+ils NNS O
+to TO O
+the DT O
+vie NN O
+ife NN B-movie.name
+is VBZ I-movie.name
+ful JJ I-movie.name
+  
+how VV O
+me PP O
+nfo NN O
+on IN O
+the DT O
+vie NN O
+ife NN B-movie.name
+is VBZ I-movie.name
+ful JJ I-movie.name
+ase RB O
+  
+pen VV O
+a DT O
+age NN O
+out IN O
+the DT O
+vie NN O
+ife NN B-movie.name
+is VBZ I-movie.name
+ful JJ I-movie.name
+  
+is VBZ O
+ine CD B-movie.release_date
+een NN I-movie.release_date
+the DT O
+ere JJ O
+ate NN O
+for IN O
+ent JJ B-movie.name
+vil NN I-movie.name
+  
+ect JJ O
+rio NN B-movie.name
+in IN O
+ese NN B-movie.language
+  
+ind VV O
+me PP O
+the DT O
+rst JJ O
+tar NN B-movie.name
+ars NNS I-movie.name
+vie NN O
+nfo NN O
+  
+i NNS O
+eed VVP O
+ils NNS O
+out IN O
+the DT O
+vie NN O
+tar NN B-movie.name
+ars NNS I-movie.name
+: : I-movie.name
+ode NN I-movie.name
+our CD I-movie.name
+- : I-movie.name
+a DT I-movie.name
+new JJ I-movie.name
+ope NN I-movie.name
+  
+did VVD O
+ray NN B-director.name
+ark JJ I-director.name
+uce NN O
+eel NN B-movie.name
+ias NNS I-movie.name
+  
+is VBZ O
+the DT O
+vie NN O
+toy NN B-movie.name
+ory NN I-movie.name
+4 CD I-movie.name
+ing VBG O
+sed VVN O
+ext JJ B-movie.release_date
+mer NN I-movie.release_date
+  
+i NNS O
+ant VVP O
+to TO O
+ook VV O
+up RP O
+ion NN O
+out IN O
+can JJ B-country.name
+ies NNS O
+  
+ese JJ B-movie.language
+ign JJ O
+ilm NN O
+ith IN O
+gfu NN B-movie.subject
+  
+nch NN B-movie.language
+ies NNS O
+for IN O
+nty CD B-movie.release_date
+lve NN I-movie.release_date
+  
+ook NN O
+for IN O
+ian JJ B-movie.language
+ies NNS O
+by IN O
+ilm NN B-producer.name
+  
+how NN O
+ion NN O
+any NN O
+ate NNS B-producer.name
+  
+unt JJ B-producer.name
+ilm NN I-producer.name
+ios NNS I-producer.name
+  
+i NP O
+uld MD O
+ike VV O
+to TO O
+ave VH O
+ore JJR O
+ion NN O
+out IN O
+the DT O
+cer NN O
+ray NN B-person.name
+ark JJ I-person.name
+  
+how VV O
+me PP O
+ils NNS O
+for IN O
+the DT O
+tor NN O
+ven JJ B-director.name
+erg NN I-director.name
+  
+how VV O
+me PP O
+hat IN/that O
+tor NN O
+tom NN B-actor.name
+ise NN I-actor.name
+  
+i NP O
+uld MD O
+ike VV O
+ion NN O
+out IN O
+the DT O
+tor NN O
+ill MD B-actor.name
+ell VV I-actor.name
+  
+who WP O
+ced VVD O
+the DT O
+vie NN O
+eat JJ B-movie.name
+ers NNS I-movie.name
+  
+ing NN B-movie.name
+'s POS I-movie.name
+ech NN I-movie.name
+ion NN O
+any NN O
+  
+i NP O
+der NN O
+who WP O
+ced VVD O
+tar NN B-movie.name
+ars NNS I-movie.name
+  
+i NP O
+can MD O
+'t NP O
+ber VV O
+who WP O
+ced VVD O
+tar NN B-movie.name
+ars NNS I-movie.name
+  
+who WP O
+ced VVD O
+tar NN B-movie.name
+ars NNS I-movie.name
+  
+vie NN O
+ers NNS O
+  
+how WRB O
+uch RB O
+did VVD O
+end NN B-movie.name
+of IN I-movie.name
+tch NN I-movie.name
+oss JJ O
+  
+how WRB O
+uch RB O
+did VVD O
+vie NN O
+arn VV O
+  
+how VV O
+me PP O
+the DT O
+ngs NNS O
+for IN O
+tel NN B-movie.name
+nia NN I-movie.name
+  
+hat WP O
+did VVD O
+the DT O
+vie NN O
+the DT O
+use NN B-movie.name
+at IN I-movie.name
+the DT I-movie.name
+end NN I-movie.name
+of IN I-movie.name
+the DT I-movie.name
+eet NN I-movie.name
+oss JJ O
+  
+nue NN O
+for IN O
+ron NN B-movie.name
+man NN I-movie.name
+2 CD I-movie.name
+  
+hat WP O
+unt NN O
+of IN O
+nue NN O
+did VVD O
+ron NN B-movie.name
+man NN I-movie.name
+ake VV O
+  
+hat WP O
+was VBD O
+the DT O
+oss JJ O
+nue NN O
+of IN O
+ron NN B-movie.name
+man NN I-movie.name
+  
+ani NP B-movie.name
+'s POS O
+nue NN O
+  
+get VV O
+the DT O
+nue NN O
+of IN O
+ani NNS B-movie.name
+  
+nue NN O
+per NN B-movie.name
+  
+how WRB O
+uch RB O
+did VVD O
+per NN B-movie.name
+oss JJ O
+in IN O
+les NNS O
+  
+how WRB O
+uch RB O
+did VVD O
+per NN B-movie.name
+oss JJ O
+  
+ho NP O
+uch RB O
+did VVD O
+per NN B-movie.name
+ake VV O
+  
+how WRB O
+uch JJ O
+ney NN O
+did VVD O
+mr NN B-movie.name
+and CC I-movie.name
+mrs NN I-movie.name
+ith NN I-movie.name
+ake VV O
+  
+how WRB O
+uch JJ O
+ney NN O
+did VVD O
+the DT O
+vie NN O
+mr NN B-movie.name
+and CC I-movie.name
+mrs NN I-movie.name
+ith NN I-movie.name
+ake VV O
+  
+in IN O
+the DT O
+vie NN O
+mr NN B-movie.name
+and CC I-movie.name
+mrs NN I-movie.name
+ith NN I-movie.name
+how WRB O
+uch JJ O
+ney NN O
+did VVD O
+the DT O
+box NN O
+ice NN O
+ort NN O
+  
+how WRB O
+uch JJ O
+ney NN O
+did VVD O
+hia NN B-movie.name
+ake VV O
+  
+i NNS O
+ant VVP O
+to TO O
+now VV O
+hat WP O
+the DT O
+nue NN O
+for IN O
+tes NNS B-movie.name
+was VBD O
+  
+how WRB O
+uch RB O
+was VBD O
+ade VVN O
+rom IN O
+oon NN B-movie.name
+  
+hat WP O
+was VBD O
+the DT O
+oss JJ O
+nue NN O
+ned VVD O
+by IN O
+tar NN B-movie.name
+ars NNS I-movie.name
+in IN O
+its PP$ O
+nal JJ O
+ase NN O
+  
+hat WP O
+was VBD O
+the DT O
+tal JJ O
+oss JJ O
+pts NNS O
+at IN O
+the DT O
+box NN O
+ice NN O
+for IN O
+the DT O
+vie NN O
+tar NN B-movie.name
+ars NNS I-movie.name
+  
+hat WP O
+ere VBD O
+the DT O
+oss JJ O
+pts NNS O
+for IN O
+ger NN B-movie.name
+mes NNS I-movie.name
+  
+ell VV O
+me PP O
+how WRB O
+uch JJ O
+ney NN O
+mmy NN B-movie.name
+boy NN I-movie.name
+ade VVD O
+  
+how WRB O
+uch JJ O
+nue NN O
+did VVD O
+top JJ B-movie.name
+gun NN I-movie.name
+ake VV O
+  
+ell VV O
+me PP O
+the DT O
+nue NN O
+of IN O
+ing NN B-movie.name
+day NN I-movie.name
+  
+hat WP O
+is VBZ O
+ife NN B-movie.name
+is VBZ I-movie.name
+ful JJ I-movie.name
+out RB O
+  
+how VV O
+me PP O
+a DT O
+ist NN O
+of IN O
+ion NN O
+ies NNS O
+  
+how VV O
+me PP O
+the DT O
+wer NN O
+ngs NNS O
+in IN B-movie.name
+nge NN I-movie.name
+  
+is VBZ O
+in RB B-movie.name
+uly RB I-movie.name
+on IN O
+lix NN O
+  
+ate NN O
+ies NNS O
+  
+ind VV O
+the DT O
+tor NN O
+hat WDT O
+ngs VVZ O
+let VV O
+me PP O
+ove VV O
+you PP O
+  
+hat WP O
+is VBZ O
+ven JJ B-person.name
+erg NN I-person.name
+up RB O
+to TO O
+  
+ael NP B-country.name
+are VBP O
+all PDT O
+our PP$ O
+ies NNS O
+in IN O
+our PP$ O
+ive JJ O
+age NN O
+or CC O
+in IN O
+ish NN B-movie.language
+  
+hat WP O
+'s VBZ O
+ing VVG O
+ght RB O
+  
+ere WRB O
+can MD O
+i NNS O
+buy VV O
+his DT O
+vie NN O
+  
+i NP O
+uld MD O
+ike VV O
+to TO O
+now VV O
+if IN O
+his DT O
+is VBZ O
+a DT O
+eal RB O
+ary JJ B-movie.genre
+  
+how WRB O
+to TO O
+ent VV O
+rty JJ B-movie.name
+ing NN I-movie.name
+  
+can MD O
+i NP O
+ent NN O
+ing VVG B-movie.name
+emo NN I-movie.name
+on IN O
+lix NN O
+  
+tel NN B-movie.name
+nda NN I-movie.name
+is VBZ O
+sed VVN O
+on IN O
+hat WP O
+  
+i NNS O
+eed VVP O
+to TO O
+now VV O
+ere WRB O
+you PP O
+eep VVP O
+ent JJ B-movie.name
+vil NN I-movie.name
+  
+in IN O
+ber NN O
+  
+dvd NNS O
+ing VVG B-movie.name
+emo NN I-movie.name
+  
+ind VV O
+vie NN O
+rom IN O
+ria NNS O
+  
+ind VV O
+a DT O
+vie NN O
+  
+can MD O
+you PP O
+ell VV O
+me PP O
+ich WDT O
+vie NN O
+ade VVD O
+the DT O
+ost JJS O
+at IN O
+the DT O
+box NN O
+ice NN O
+in IN O
+the DT O
+end NN O
+of IN O
+ber NN O
+nty CD O
+hth NN O
+  
+ind VV O
+ies NNS O
+ted VVN O
+on IN O
+all DT O
+ria NNS O
+  
+ons NNS O
+ble JJ O
+for IN O
+ies NNS O
+day NN O
+  
+ind VV O
+all DT O
+ted JJ O
+ria NNS O
+  
+rch NN O
+ted VVD O
+ion NN O
+  
+ing VV O
+up RP O
+vie NN O
+est NN O
+  
+ind VV O
+ted JJ O
+ion NN O
+  
+ind VV O
+ted JJ O
+ria NNS O
+  
+ere WRB O
+can MD O
+i NP O
+tch NN O
+vie NN O
+  
+rch VV O
+all DT O
+ses NNS O
+  
+rch NN O
+ses NNS O
+  
+ere WRB O
+can MD O
+i NNS O
+see VV O
+vie NN O
+  
+hat WP O
+is VBZ O
+the DT O
+age NN O
+mit NN O
+for IN O
+the DT O
+pg NN B-rating.name
+ing NN O
+for IN O
+the DT O
+vie NN O
+tel NN B-movie.name
+nia NN B-movie.name
+  
+hat WP O
+oes VVZ O
+the DT O
+ing NN O
+r SYM B-rating.name
+ean JJ O
+for IN O
+the DT O
+vie NN O
+red VVD O
+  
+how VV O
+me PP O
+the DT O
+els NNS O
+or CC O
+els NNS O
+to TO O
+his DT O
+vie NN O
+  
+how WRB O
+ong RB O
+did VVD O
+it PP O
+ake VV O
+mes NNS B-producer.name
+ron NN I-producer.name
+to TO O
+uce VV O
+tar NN B-movie.name
+  
+is VBZ O
+his DT O
+ilm NN O
+bed VVN O
+in IN O
+ish NN B-movie.language
+  
+llo NN B-movie.name
+een CD I-movie.name
+ast NN O
+was VBD O
+sen VVN O
+how WRB O
+  
+hat WP O
+her JJ O
+ats NNS O
+is VBZ O
+ing VVG B-movie.name
+emo NN I-movie.name
+in IN O
+  
+in IN O
+how WRB O
+any JJ O
+ays NNS O
+did VVD O
+it PP O
+ake VVP O
+to TO O
+ake VV O
+nty CD B-movie.gross_revenue
+one CD I-movie.gross_revenue
+int NN I-movie.gross_revenue
+two CD I-movie.gross_revenue
+for IN O
+per NN B-movie.name
+  
+hat WP O
+age NN O
+oup NN O
+is VBZ O
+for IN O
+ted VVN O
+r NN B-rating.name
+ies NNS O
+  
+how VV O
+me PP O
+the DT O
+ind IN O
+nes NNS O
+of IN O
+the DT O
+vie NN O
+in IN B-movie.name
+nge NN I-movie.name
+  
+how WRB O
+ong RB O
+do VVP O
+you PP O
+ict VVP O
+hat IN/that O
+wb NN B-producer.name
+ill MD O
+nue VV O
+to TO O
+ive VV O
+in IN O
+day NN O
+'s POS O
+ket NN O
+  
+the DT O
+rap NN O
+  
+who WP O
+nes VVZ O
+the DT O
+ngs NNS O
+on IN O
+ies NNS O
+  
+use NN B-movie.name
+at IN I-movie.name
+the DT I-movie.name
+end NN I-movie.name
+of IN I-movie.name
+the DT I-movie.name
+eet NN I-movie.name
+uld MD O
+of IN O
+ade VVD O
+ore JJR O
+ney NN O
+  
+ind VV O
+me PP O
+rty JJ B-movie.name
+ing NN I-movie.name
+ews NN O
+  
+who WP O
+lse RB O
+uld MD O
+ave VH O
+med VVN O
+our PP$ O
+job NN O
+  
+nty CD B-movie.gross_revenue
+one CD I-movie.gross_revenue
+int NN I-movie.gross_revenue
+two CD I-movie.gross_revenue
+was VBD O
+aid VVN O
+out RP O
+  
+ind VV O
+ome DT O
+tes NNS O
+on IN O
+tal JJ O
+nce NN O
+ase VV O
+  
+who WP O
+ame VVD O
+up RP O
+for IN O
+the DT O
+ain JJ O
+lot NN O
+  
+hat WP O
+is VBZ O
+the DT O
+ard NN O
+to TO O
+be VB O
+ted VVN O
+g NN B-rating.name
+  
+i NP O
+ove NN O
+aye NN B-person.name
+ggs NNS I-person.name
+  
+how VV O
+me PP O
+the DT O
+vie NN O
+ews VVZ O
+in IN O
+nge NN O
+  
+how VV O
+me PP O
+ies NNS O
+  
+how WRB O
+old JJ O
+do VVP O
+you PP O
+ave VHP O
+to TO O
+be VB O
+to TO O
+see VV O
+an DT O
+ted JJ B-rating.name
+vie NN O
+  
+oes VVZ O
+and NP B-country.name
+ave VHP O
+an DT O
+ent NN O
+to TO O
+th NN O
+us PP B-country.name
+car NN B-award.ceremony
+rds NNS O
+  
+ick NN O
+on IN O
+the DT O
+ost RBS O
+lar JJ O
+vie NN O
+in IN O
+nge NN O
+  
+zil NN B-movie.location
+vie NN O
+ons NNS O
+  
+hat WP O
+is VBZ O
+the DT O
+ory NN O
+ind IN O
+ate NNS B-producer.name
+  
+hat WP O
+oes VVZ O
+an DT O
+r NN B-rating.name
+ing NN O
+ean VVP O
+on IN O
+a DT O
+vie NN O
+  
+can MD O
+you PP O
+ive VV O
+me PP O
+ore JJR O
+ion NN O
+out IN O
+the DT O
+ext NN O
+ted VVN O
+in IN O
+nge NN O
+  
+hat WP O
+are VBP O
+the DT O
+ded JJ O
+ges NNS O
+for IN O
+a DT O
+pg NN B-rating.name
+vie NN O
+  
+end VV O
+edd NN B-movie.name
+vie NN O
+  
+enn NP B-person.name
+ann NP I-person.name
+ver NN O
+  
+did VVD O
+ten NP B-person.name
+art NP I-person.name
+ave VHP O
+an DT O
+air NN O
+ith IN O
+the DT O
+tor NN O
+of IN O
+now NN B-movie.name
+ite NN I-movie.name
+and CC I-movie.name
+the DT I-movie.name
+man NN I-movie.name
+  
+how VV O
+me PP O
+vie NN O
+hts NNS O
+in IN O
+nge NN O
+  
+eed NN O
+to TO O
+ate NN O
+vie NN O
+  
+how WRB O
+old JJ O
+do VVP O
+you PP O
+ave VHP O
+to TO O
+be VB O
+to TO O
+see VV O
+a DT O
+ted VVN O
+r NN B-rating.name
+vie NN O
+  
+hat WP O
+oes VVZ O
+a DT O
+pg NN B-rating.name
+een CD I-rating.name
+ing NN O
+ean NN O
+  
+nty CD B-movie.gross_revenue
+one CD I-movie.gross_revenue
+int NN I-movie.gross_revenue
+two CD I-movie.gross_revenue
+is VBZ O
+the DT O
+rst JJ O
+eek NN O
+oss JJ O
+  
+r SYM B-rating.name
+ing NN O
+hat WP O
+oes VVZ O
+hat RB O
+ude VV O
+  
+in IN B-movie.name
+lie NN I-movie.name
+  
+wb NN B-producer.name
+- : O
+hat WP O
+oes VVZ O
+it PP O
+ake VV O
+to TO O
+ome VV O
+a DT O
+vie NN O
+cer NN O
+  
+how VV O
+me PP O
+ood NN O
+ces NNS O
+  
+how WRB O
+oes VVZ O
+a DT O
+vie NN O
+ive VV O
+an DT O
+r NN B-rating.name
+ing NN O
+  
+did VVD O
+you PP O
+ave VHP O
+fun NN O
+on IN O
+the DT O
+set NN O
+  
+hat WP O
+are VBP O
+the DT O
+ing NN O
+ols NNS O
+for IN O
+ies NNS O
+  
+sb NN O
+ews NN O
+on IN O
+ife NN O
+  
+i NNS O
+ave VHP O
+a DT O
+een CD O
+ear NN O
+old JJ O
+  
+end NN B-movie.name
+of IN I-movie.name
+tch NN I-movie.name
+lde NN O
+of IN O
+ade VVD O
+ess JJR O
+ney NN O
+  
+hen WRB O
+the DT O
+vie NN O
+mes VVZ O
+out RB O
+do VV O
+you PP O
+ink VVP O
+it PP O
+ill MD O
+ise VV O
+in IN O
+the DT O
+box NN O
+ice NN O
+  
+how VV O
+me PP O
+the DT O
+vie NN O
+ist NN O
+in IN O
+nge NN O
+  
+how VV O
+me PP O
+the DT O
+ory NN O
+of IN O
+the DT O
+ong NN B-person.name
+ley NN I-person.name
+  
+sic JJ O
+ars NNS O
+  
+i NNS O
+ant VVP O
+to TO O
+arn VV O
+out IN O
+ers NNS O
+  
+out IN O
+ing NN O
+  
+ppy JJ O
+  
+ing JJ O
+  
+ort NN O
+by IN O
+ish NN B-movie.language
+  
+ere WRB O
+is VBZ O
+abi NN B-movie.language
+  
+hat WP O
+is VBZ O
+ert NN B-person.name
+ise NN I-person.name
+'s POS O
+dle JJ O
+ame NN O
+  
+ret NN O
+  
+rty NN O
+ree CD O
+ion CD O
+hat WP O
+  
+nty CD O
+one CD O
+int NN O
+two CD O
+ion CD O
+ars NNS O
+was VBD O
+ded VVN O
+een IN O
+who WP O
+  
+do VV O
+vie NN O
+ors NNS O
+use VVP O
+eal JJ O
+ies NNS O
+  
+on IN O
+ies NNS O
+  
+the DT O
+vie NN O
+a DT B-movie.name
+anu NN I-movie.name
+is VBZ O
+rom IN O
+ary NN B-country.name
+; : O
+ere WRB O
+is VBZ O
+the DT O
+try NN O
+ary NN B-country.name
+  
+how WRB O
+fun NN O
+is VBZ O
+it PP O
+to TO O
+uce VV O
+a DT O
+vie NN O
+  
+did VVD O
+you PP O
+ike IN O
+ing VVG O
+ith IN O
+who WP O
+you PP O
+did VVD O
+  
+can MD O
+i NNS O
+see VV O
+a DT O
+map NN O
+of IN O
+ada NP B-country.name
+  
+was VBD O
+our PP$ O
+ney NN O
+rth NN O
+it PP O
+  
+uth JJ O
+can JJ O
+try NN O
+ags NNS O
+  
+eed VV O
+ore JJR O
+nfo NN O
+hat WDT O
+tes VVZ O
+to TO O
+ina NN B-country.name
+  
+ags NNS O
+of IN O
+net NN O
+rth NN O
+  
+est JJS O
+ers NNS O
+in IN O
+the DT O
+eld NN O
+  
+ind VV O
+the DT O
+ale JJ O
+tor NN O
+rom IN O
+and JJ B-movie.name
+ino NN I-movie.name
+  
+who WP O
+yed VVD O
+the DT O
+ale JJ O
+ead NN O
+in IN O
+tch NN B-movie.name
+  
+ind VV O
+the DT O
+ale JJ O
+ess NN O
+rom IN O
+low JJ B-movie.name
+hal NNS I-movie.name
+  
+who WP O
+is VBZ O
+in IN O
+ure NN O
+ree CD O
+  
+who WP O
+are VBP O
+the DT O
+ead JJ O
+ors NNS O
+  
+how WRB O
+old NN O
+is VBZ O
+fer NN B-person.name
+ton NN I-person.name
+  
+hen WRB O
+was VBD O
+ill NN B-person.name
+ell NN I-person.name
+orn VVN O
+  
+ere WRB O
+was VBD O
+ack JJ B-movie.name
+wan NN I-movie.name
+ted VVD O
+  
+ere WRB O
+was VBD O
+iel NP B-movie.name
+'s POS I-movie.name
+ing NN I-movie.name
+hot NN O
+  
+how NN O
+ase NN O
+ate NN O
+in IN O
+the DT B-movie.release_region
+usa NN I-movie.release_region
+for IN O
+the DT O
+vie NN O
+tle JJ B-movie.name
+men NNS I-movie.name
+  
+how NN O
+vie NN O
+ion NN O
+  
+i NP O
+'d MD O
+ike VV O
+to TO O
+see VV O
+lar JJ O
+ilm NN O
+ors NNS O
+rom IN O
+the DT O
+een CD B-movie.release_date
+fty CD I-movie.release_date
+'s VBZ I-movie.release_date
+ugh IN I-movie.release_date
+day NN I-movie.release_date
+  
+est JJS O
+tor NN O
+  
+est JJS O
+ors NNS O
+of IN O
+all DT O
+ime NN O
+  
+ase UH O
+how VV O
+me PP O
+ous JJ O
+ilm NN O
+ors NNS O
+  
+est JJS O
+ors NNS O
+  
+who WP O
+ced VVD O
+ome DT O
+of IN O
+the DT O
+ost RBS O
+lar JJ O
+ies NNS O
+  
+how VV O
+me PP O
+ful JJ O
+vie NN O
+ors NNS O
+  
+who WP O
+ced VVD O
+tel NN B-movie.name
+nda NNS I-movie.name
+ver VVP O
+art NN O
+  
+who WP O
+'s VBZ O
+the DT O
+tor NN O
+  
+tor NN O
+'s POS O
+ame NN O
+  
+hat WP O
+is VBZ O
+the DT O
+ame NN O
+of IN O
+a DT O
+ish JJ B-director.nationality
+tor NN O
+hat WDT O
+ced VVD O
+a DT O
+ama NN B-movie.genre
+ilm NN O
+  
+tch NN O
+edd NN B-movie.name
+vie NN O
+  
+see VV O
+edd NN B-movie.name
+vie NN O
+  
+hat WP O
+was VBD O
+the DT O
+ame NN O
+of IN O
+an DT O
+emy NN B-award.ceremony
+ard NN O
+ing VVG O
+ian JJ B-country.name
+ary NN B-movie.genre
+  
+hat WP O
+vie NN O
+les NNS O
+ing VVG O
+ryl NN B-actor.name
+eep NNS I-actor.name
+ned VVD O
+car NN B-award.ceremony
+ons NNS O
+  
+in IN O
+rch NN O
+for IN O
+mes NNS O
+of IN O
+rew NN O
+ers NNS O
+ase VVP O
+  
+get VV O
+me PP O
+ews NNS O
+and CC O
+nfo NN O
+out IN O
+the DT B-movie.name
+ign NN I-movie.name
+vie NN O
+  
+how VV O
+me PP O
+ews NNS O
+and CC O
+nfo NN O
+for IN O
+the DT B-movie.name
+ign NN I-movie.name
+  
+hat WP O
+ies NNS O
+hat DT O
+int NN B-director.name
+ood NN I-director.name
+ect JJ O
+hat IN/that O
+he PP O
+won VVD O
+the DT O
+est JJS B-award.category
+tor NN I-award.category
+car NN B-award.ceremony
+for IN O
+  
+hat WP O
+'s VBZ O
+ock NN B-director.name
+'s POS O
+ost RBS O
+ous JJ O
+vie NN O
+  
+ell VV O
+me PP O
+ome DT O
+of IN O
+ter NP B-director.name
+f SYM I-director.name
+kes VVZ I-director.name
+est JJS O
+ies NNS O
+  
+ing VVG O
+for IN O
+ies NNS O
+ted VVN O
+by IN O
+tor NN O
+ber NN O
+one CD O
+  
+ist NN O
+of IN O
+ies NNS O
+ted VVN O
+by IN O
+tor NN O
+ree CD O
+  
+how VV O
+me PP O
+the DT O
+ilm NN O
+hat WDT O
+sed VVD O
+ven CD B-movie.gross_revenue
+int NN I-movie.gross_revenue
+two CD I-movie.gross_revenue
+ion CD I-movie.gross_revenue
+at IN O
+the DT O
+box NN O
+ice NN O
+  
+how VV O
+me PP O
+ies NNS O
+hat WDT O
+ade VVD O
+ver IN B-movie.gross_revenue
+ven CD I-movie.gross_revenue
+ion CD I-movie.gross_revenue
+ars NNS I-movie.gross_revenue
+  
+how VV O
+me PP O
+ies NNS O
+hat IN/that O
+idn NN O
+'t NN O
+oss JJ O
+uch RB O
+  
+i NNS O
+ant VVP O
+to TO O
+see VV O
+ies NNS O
+rom IN O
+rly RB B-movie.release_date
+two CD I-movie.release_date
+nds NNS I-movie.release_date
+  
+how VV O
+ast JJ B-movie.release_date
+ars NNS I-movie.release_date
+lms NNS O
+by IN O
+7 CD B-producer.name
+rts NNS I-producer.name
+  
+how VV O
+all DT O
+ies NNS O
+hat WDT O
+ame VVD O
+out RP O
+ine CD B-movie.release_date
+een NN I-movie.release_date
+nty CD I-movie.release_date
+lve NN I-movie.release_date
+  
+ere VBD O
+ere RB O
+any DT O
+ies NNS O
+sed VVD O
+ine CD B-movie.release_date
+een NN I-movie.release_date
+nty CD I-movie.release_date
+lve NN I-movie.release_date
+  
+how VV O
+me PP O
+ies NNS O
+rom IN O
+the DT O
+een CD B-movie.release_date
+ies NNS I-movie.release_date
+  
+can MD O
+you PP O
+ist VV O
+all DT O
+ies NNS O
+rom IN O
+nty CD B-movie.release_date
+lve NN I-movie.release_date
+ith IN O
+a DT O
+ing NN O
+of IN O
+ree CD B-movie.star_rating
+ars NNS O
+and CC O
+up RB O
+  
+emy NN B-award.ceremony
+ard NN O
+ate NN B-producer.name
+ies NNS O
+  
+how NN O
+car NN B-award.ceremony
+ing VVG O
+ies NNS O
+by IN O
+ner NN B-producer.name
+ers NNS I-producer.name
+  
+hat WP O
+vie NN O
+nce NN O
+did VVD O
+ryl NN B-actor.name
+eep NNS I-actor.name
+win VVP O
+her PP$ O
+est JJS B-award.category
+ing JJ I-award.category
+car NN B-award.ceremony
+  
+ave VHP O
+any DT O
+us PP B-country.name
+sed VVN O
+ies NNS O
+een VBN O
+med VVN O
+on IN O
+ion NN O
+in IN O
+the DT O
+ech NN B-movie.location
+lic NN I-movie.location
+  
+hat WP O
+us PP B-country.name
+ase VVP O
+ies NNS O
+ave VHP O
+een VBN O
+med VVN O
+in IN O
+the DT O
+ech NN B-movie.location
+lic NN I-movie.location
+  
+ist NN O
+ies NNS O
+set VVN O
+in IN O
+and NN B-movie.location
+  
+how VV O
+me PP O
+the DT O
+ies NNS O
+sed VVN O
+in IN O
+and NN B-movie.release_region
+  
+hat WP O
+ies NNS O
+are VBP O
+ing VVG O
+out RP O
+his DT B-movie.release_date
+eek NN I-movie.release_date
+in IN O
+eat JJ B-movie.release_region
+ain NN I-movie.release_region
+  
+how VV O
+me PP O
+the DT O
+ies NNS O
+sed VVN O
+in IN O
+pal NN B-movie.release_region
+  
+hat WP O
+are VBP O
+the DT O
+top JJ O
+ive CD O
+nch NN B-country.name
+ies NNS O
+of IN O
+all DT O
+ime NN O
+  
+hat WP O
+top JJ O
+lms NNS O
+ave VHP O
+ome VVN O
+out RP O
+of IN O
+sia NN B-country.name
+  
+how VV O
+me PP O
+the DT O
+top JJ O
+ies NNS O
+rom IN O
+ain NN B-country.name
+  
+hat WP O
+is VBZ O
+the DT O
+est JJS O
+ted VVN O
+bie NN B-movie.subject
+vie NN O
+  
+hat WP O
+are VBP O
+hly RB O
+ted VVN O
+bie NN B-movie.subject
+ies NNS O
+i NP O
+can MD O
+tch VV O
+  
+ook NN O
+for IN O
+lar JJ O
+ies NNS O
+  
+rch NN O
+for IN O
+ign JJ B-movie.language
+age NN I-movie.language
+lms NNS O
+  
+hat WP O
+is VBZ O
+ill NN B-actor.name
+ell NN I-actor.name
+ous JJ O
+for IN O
+  
+is VBZ O
+his DT O
+a DT O
+cal NN B-movie.genre
+  
+ope VVP O
+hat IN/that O
+the DT O
+vie NN O
+is VBZ O
+in IN O
+ish NN B-movie.language
+  
+is VBZ O
+his DT O
+vie NN O
+in IN O
+ish NN B-movie.language
+  
+do VV O
+hey PP O
+eak VV O
+man JJ B-movie.language
+in IN O
+the DT O
+vie NN O
+  
+is VBZ O
+his DT O
+vie NN O
+med VVN O
+in IN O
+dia NN B-movie.location
+  
+how VV O
+all DT O
+awn NN B-movie.name
+of IN I-movie.name
+the DT I-movie.name
+ead JJ I-movie.name
+ies NNS O
+  
+all DT O
+of IN O
+ung NP B-movie.name
+fu NP I-movie.name
+nda NN I-movie.name
+ies NNS O
+  
+ist NN O
+ies NNS O
+hat WDT O
+ave VHP O
+ime NN O
+vel NN O
+in IN O
+eir PP$ O
+tle NN O
+  
+i NNS O
+ant VVP O
+to TO O
+see VV O
+ine CD B-movie.release_date
+nty CD I-movie.release_date
+ght CD I-movie.release_date
+ase NN O
+ate NN O
+lms NNS O
+rom IN O
+nty CD I-movie.release_date
+lve NN I-movie.release_date
+  
+ind VV O
+ion NN O
+out IN O
+nch JJ B-movie.language
+ies NNS O
+  
+i NNS O
+eed VVP O
+to TO O
+now VV O
+ore JJR O
+out IN O
+the DT O
+ife NN O
+and CC O
+ies NNS O
+of IN O
+ian JJ B-actor.nationality
+tor NN O
+lip NN B-actor.name
+mar NN I-actor.name
+  
+hat WP O
+oes VVZ O
+the DT O
+max NN B-producer.name
+ogo NN O
+ook VVP O
+ike IN O
+  
+how VV O
+me PP O
+res NNS O
+of IN O
+tin NN B-person.name
+ese NN I-person.name
+  
+tos NNS O
+of IN O
+ven JJ B-person.name
+erg NN I-person.name
+  
+i NNS O
+ant VVP O
+to TO O
+see VV O
+ges NNS O
+of IN O
+ill NN B-person.name
+ell NN I-person.name
+  
+how VV O
+me PP O
+res NNS O
+of IN O
+ody JJ B-person.name
+len NN I-person.name
+  
+hat WP O
+are VBP O
+lar JJ O
+vie NN O
+ers NNS O
+  
+can MD O
+you PP O
+ive VV O
+me PP O
+the DT O
+cer NN O
+  
+i NP O
+uld MD O
+ike VV O
+to TO O
+now VV O
+the DT O
+ing NN O
+of IN O
+the DT O
+vie NN O
+tar NN B-movie.name
+  
+hat WP O
+ing NN O
+is VBZ O
+the DT O
+vie NN O
+rfi NN B-movie.name
+  
+hat WP O
+is VBZ O
+ing VVG B-movie.name
+emo NN I-movie.name
+ted VVN O
+  
+i NNS O
+eed VVP O
+to TO O
+now VV O
+the DT O
+ing NN O
+of IN O
+ase NN B-movie.name
+  
+can MD O
+you PP O
+ind VV O
+out RP O
+hat WP O
+ing NN O
+the DT O
+vie NN O
+ase NN B-movie.name
+is VBZ O
+  
+hat WP O
+is VBZ O
+ids NNS B-movie.name
+by IN O
+rry NN B-director.name
+ark NN I-director.name
+ted VVN O
+  
+hat WP O
+ing NN O
+did VVD O
+ley NN B-movie.name
+and CC I-movie.name
+me PP I-movie.name
+ive VVP O
+  
+hat WP O
+is VBZ O
+the DT O
+ing NN O
+for IN O
+mr NN B-movie.name
+and CC I-movie.name
+mrs NN I-movie.name
+ith NN I-movie.name
+  
+hat WP O
+ing NN O
+did VVD O
+ent JJ B-movie.name
+vil NN I-movie.name
+ive VV O
+  
+ing NN O
+for IN O
+now NN B-movie.name
+ite NN I-movie.name
+and CC I-movie.name
+the DT I-movie.name
+man NN I-movie.name
+  
+hat WP O
+ing NN O
+is VBZ O
+tep NN B-movie.name
+up RB I-movie.name
+  
+ook VV O
+up RP O
+the DT O
+ing NN O
+of IN O
+the DT O
+vie NN O
+tep NN B-movie.name
+up RB I-movie.name
+  
+hat WP O
+ing NN O
+did VVD O
+the DT B-movie.name
+ign NN I-movie.name
+vie NN O
+get VV O
+  
+how VV O
+me PP O
+the DT O
+ing NN O
+for IN O
+the DT O
+vie NN O
+the DT B-movie.name
+les NNS I-movie.name
+  
+hat WP O
+is VBZ O
+the DT O
+ing NN O
+for IN O
+toy JJ B-movie.name
+ory NN I-movie.name
+  
+hat WP O
+is VBZ O
+the DT O
+ing NN O
+for IN O
+the DT O
+vie NN O
+toy NN B-movie.name
+ory NN I-movie.name
+  
+ing NN O
+for IN O
+ght NN B-movie.name
+ing VVG I-movie.name
+awn NN I-movie.name
+  
+hat WP O
+was VBD O
+oss JJ O
+nue NN O
+for IN O
+man NN B-movie.name
+ins VVZ I-movie.name
+  
+how WRB O
+uch RB O
+has VHZ O
+ack JJ B-movie.name
+wan NN I-movie.name
+ght VVN O
+in IN O
+  
+ind VV O
+the DT O
+nue NN O
+for IN O
+ton NN B-movie.name
+bey NN I-movie.name
+  
+ind VV O
+the DT O
+nue NN O
+of IN O
+ard NN B-movie.name
+sor VVP I-movie.name
+nds NNS I-movie.name
+  
+hat WP O
+is VBZ O
+the DT O
+ost JJS O
+a DT O
+vie NN O
+ade VVD O
+  
+ews NNS O
+for IN O
+rty JJ B-movie.name
+ing NN I-movie.name
+  
+ind VV O
+ews NNS O
+for IN O
+rty JJ B-movie.name
+ing NN I-movie.name
+  
+hat WP O
+are VBP O
+ews NNS O
+for IN O
+ing VVG B-movie.name
+emo NN I-movie.name
+  
+hat WP O
+are VBP O
+the DT O
+ngs NNS O
+and CC O
+iew NN O
+on IN O
+ing VVG B-movie.name
+emo NN I-movie.name
+  
+ews NNS O
+for IN O
+ing VVG B-movie.name
+emo NN I-movie.name
+  
+ews NNS O
+for IN O
+ing VVG B-movie.name
+emo NN I-movie.name
+  
+ews NNS O
+for IN O
+ing VVG B-movie.name
+emo NN I-movie.name
+  
+ews NNS O
+for IN O
+vie NN O
+  
+ews NNS O
+for IN O
+in IN B-movie.name
+uly NN I-movie.name
+  
+hat WP O
+are VBP O
+the DT O
+ers NNS O
+ing VVG O
+out IN O
+tar NN B-movie.name
+ars NNS I-movie.name
+ode NN I-movie.name
+our CD I-movie.name
+  
+how WRB O
+ong RB O
+is VBZ O
+ife NN B-movie.name
+is VBZ I-movie.name
+ful JJ I-movie.name
+  
+sis NN O
+for IN O
+the DT O
+vie NN O
+use NN B-movie.name
+at IN I-movie.name
+the DT I-movie.name
+end NN I-movie.name
+of IN I-movie.name
+the DT I-movie.name
+eet NN I-movie.name
+  
+sis NN O
+for IN O
+tar NN B-movie.name
+ars NNS I-movie.name
+our CD I-movie.name
+  
+ary NN O
+of IN O
+tar NN B-movie.name
+ars NNS I-movie.name
+our CD I-movie.name
+  
+ing VVG B-movie.name
+emo NN I-movie.name
+vie NN O
+cut NN O
+  
+how VV O
+me PP O
+the DT O
+ler NN O
+for IN O
+use NN B-movie.name
+at IN I-movie.name
+the DT I-movie.name
+end NN I-movie.name
+of IN I-movie.name
+the DT I-movie.name
+eet NN I-movie.name
+  
+ife NN B-movie.name
+is VBZ I-movie.name
+ful JJ I-movie.name
+cut NN O
+  
+ler NN O
+for IN O
+tar NN B-movie.name
+ars NNS I-movie.name
+a DT I-movie.name
+new JJ I-movie.name
+ope NN I-movie.name
+  
+how VV O
+ent JJ B-movie.name
+vil JJ I-movie.name
+ies NNS O
+ith IN O
+ers NNS O
+  
+can MD O
+i NNS O
+see VV O
+ews NNS O
+for IN O
+ing JJ O
+ner NN B-producer.name
+ers NNS I-producer.name
+ies NNS O
+  
+how WRB O
+any JJ O
+ody JJ B-director.name
+len NN I-director.name
+ies NNS O
+are VBP O
+set VVN O
+in IN O
+new JJ B-movie.location
+ork VVP I-movie.location
+ity NN I-movie.location
+  
+how WRB O
+any JJ O
+ese JJ B-producer.name
+lms NNS O
+ere VBD O
+med VVN O
+in IN O
+nce NN B-movie.location
+  

@@ -4,24 +4,27 @@ import torch.nn.functional as F
 from data_elaboration import seq_batch
 
 
-class LSTMTagger(nn.Module):
-
+class RNN(nn.Module):
     def __init__(self, embedding_dim, hidden_dim, tagset_size, device, pretrained_embeddings=False,
-                 vocab_size=None, w2v_weights=None, bidirectional=False, num_layers=1, drop_rate=0.7, freeze=False):
-        super(LSTMTagger, self).__init__()
+                 vocab_size=None, w2v_weights=None, bidirectional=False, num_layers=1, drop_rate=0.7, freeze=False, jordan=False):
+        super(RNN, self).__init__()
 
-        # The LSTM takes word embeddings as inputs, and outputs hidden states
+        # The RNN takes word embeddings as inputs, and outputs hidden states
         # with dimensionality hidden_dim.
         # input_size – The number of expected features in the input x
         # hidden_size – The number of features in the hidden state h
         # num_layers – Number of recurrent layers
         # dropout – If non-zero, introduces a Dropout layer
-        # on the outputs of each LSTM layer except the last layer,
+        # on the outputs of each RNN layer except the last layer,
         # with dropout probability equal to dropout. Default: 0
         # bidirectional – If True, becomes a bidirectional LSTM. Default: False
 
         # save params
-        self.hidden_dim = hidden_dim
+        self.jordan = jordan
+        if jordan:
+            self.hidden_dim = tagset_size
+        else:
+            self.hidden_dim = hidden_dim
         self.tagset_size = tagset_size
         self.device = device
         if pretrained_embeddings:
@@ -33,7 +36,7 @@ class LSTMTagger(nn.Module):
         self.bidirectional = bidirectional
         self.num_layers = num_layers
         self.drop = nn.Dropout(self.drop_rate)
-        self.lstm = nn.LSTM(embedding_dim, self.hidden_dim // (1 if not bidirectional else 2),
+        self.rnn = nn.RNN(embedding_dim, self.hidden_dim // (1 if not bidirectional else 2),
                             dropout=self.drop_rate, batch_first=True, num_layers=self.num_layers,
                             bidirectional=bidirectional)
 
@@ -52,17 +55,16 @@ class LSTMTagger(nn.Module):
         # from pytorch documentation: (hidden state (h): (num_layers, mini_batch_size, hidden_dim),
         #                                cell state (c): (num_layers, mini_batch_size, hidden_dim)
 
-        return (torch.zeros(self.num_layers, batch_size, self.hidden_dim, device=self.device),
-                torch.zeros(self.num_layers, batch_size, self.hidden_dim, device=self.device))
+        return torch.zeros(self.num_layers, batch_size, self.hidden_dim, device=self.device)
 
     def __init_hidden_bidirectional(self, batch_size):
         """
-        hidden layer of bidirectional lstm: 2 hidden layers each of dimension
+        hidden layer of bidirectional rnn: 2 hidden layers each of dimension
         """
-        return (torch.zeros(self.num_layers * 2, batch_size, self.hidden_dim // 2, device=self.device),
-                torch.zeros(self.num_layers * 2, batch_size, self.hidden_dim // 2, device=self.device))
+        return torch.zeros(self.num_layers * 2, batch_size, self.hidden_dim // 2, device=self.device)
 
     def forward(self, batch):
+        rnn_out = self.init_hidden(len(batch))
         hidden = self.init_hidden(len(batch))
         data, labels = seq_batch(batch)
         embeds = self.word_embeddings(data)
@@ -84,8 +86,14 @@ class LSTMTagger(nn.Module):
                 tensor containing the cell state for t = seq_len
 
         """
-        lstm_out, hidden = self.lstm(embeds, hidden)
+        if self.jordan:
+            rnn_out, hidden = self.rnn(embeds, rnn_out)
+            print(rnn_out.shape)
+            print(hidden.shape)
+        else:
+            rnn_out, hidden = self.rnn(embeds, hidden)
+
         # send output to fc layer(s)
-        tag_space = self.hidden2tag(lstm_out.unsqueeze(1).contiguous())
+        tag_space = self.hidden2tag(rnn_out.unsqueeze(1).contiguous())
         tag_scores = F.log_softmax(tag_space, dim=3)
         return tag_scores.view(-1, self.tagset_size), labels.view(-1)

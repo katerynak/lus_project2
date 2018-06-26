@@ -2,6 +2,7 @@ import pandas as pd
 from torch.utils.data import Dataset
 import torch.nn.functional as F
 import torch
+import numpy as np
 
 
 def load(filename):
@@ -31,6 +32,76 @@ def load(filename):
                 token_sentence.append(tok)
 
     return pd.DataFrame({'tokens': token_sentences, 'tags': tag_sentences})
+
+
+def write_pos_iob(iob_file, pos_file, out_file):
+    """
+    writes file containing word	pos_tag	iob_tag
+    """
+    data_pos = pd.read_csv(pos_file, sep='\s+', header=None, skip_blank_lines=False)
+    data_iob = pd.read_csv(iob_file, sep='\s+', header=None, skip_blank_lines=False)
+
+    data_pos.columns = ['token', 'pos_tag', 'lemma']
+    data_iob.columns = ['token', 'iob_tag']
+
+    out_data = pd.DataFrame(data=[data_pos.token, data_pos.pos_tag, data_iob.iob_tag]).transpose()
+    out_data.to_csv(out_file, index=None, header=None, sep=' ', mode='w')
+
+
+def write_pref_pos_iob(iob_file, pos_file, out_file):
+    """
+    writes file containing word	pos_tag	iob_tag
+    """
+    data_pos = pd.read_csv(pos_file, sep='\s+', header=None, skip_blank_lines=False)
+    data_iob = pd.read_csv(iob_file, sep='\s+', header=None, skip_blank_lines=False)
+
+    data_pos.columns = ['token', 'pos_tag', 'lemma']
+    data_iob.columns = ['token', 'iob_tag']
+    data_iob['prefix'] = data_iob.token.apply(lambda x: x if (x!=x) else str(x)[:3])
+
+    out_data = pd.DataFrame(data=[data_iob.prefix, data_pos.pos_tag, data_iob.iob_tag]).transpose()
+    out_data.to_csv(out_file, index=None, header=None, sep=' ', mode='w')
+
+
+def write_suff_pos_iob(iob_file, pos_file, out_file):
+    """
+    writes file containing word	pos_tag	iob_tag
+    """
+    data_pos = pd.read_csv(pos_file, sep='\s+', header=None, skip_blank_lines=False)
+    data_iob = pd.read_csv(iob_file, sep='\s+', header=None, skip_blank_lines=False)
+
+    data_pos.columns = ['token', 'pos_tag', 'lemma']
+    data_iob.columns = ['token', 'iob_tag']
+    data_iob['suffix'] = data_iob.token.apply(lambda x: x if (x!=x) else str(x)[-3:])
+
+    out_data = pd.DataFrame(data=[data_iob.suffix, data_pos.pos_tag, data_iob.iob_tag]).transpose()
+    out_data.to_csv(out_file, index=None, header=None, sep=' ', mode='w')
+
+
+def write_prefix_iob(iob_file, out_file):
+    """
+    writes file containing word	prefix	iob_tag
+    """
+    data_iob = pd.read_csv(iob_file, sep='\s+', header=None, skip_blank_lines=False)
+
+    data_iob.columns = ['token', 'iob_tag']
+    data_iob['prefix'] = data_iob.token.apply(lambda x: x if (x!=x) else str(x)[:3])
+
+    out_data = pd.DataFrame(data=[data_iob.token,data_iob['prefix'], data_iob.iob_tag]).transpose()
+    out_data.to_csv(out_file, index=None, header=None, sep=' ', mode='w')
+
+
+def write_suffix_iob(iob_file, out_file):
+    """
+    writes file containing word	prefix	iob_tag
+    """
+    data_iob = pd.read_csv(iob_file, sep='\s+', header=None, skip_blank_lines=False)
+
+    data_iob.columns = ['token', 'iob_tag']
+    data_iob['suffix'] = data_iob.token.apply(lambda x:  x if (x!=x) else str(x)[-3:])
+
+    out_data = pd.DataFrame(data=[data_iob.token, data_iob['suffix'], data_iob.iob_tag]).transpose()
+    out_data.to_csv(out_file, index=None, header=None, sep=' ', mode='w')
 
 
 def load_words(filename):
@@ -143,3 +214,22 @@ class Wrapped_dataset(Dataset):
 if __name__== "__main__":
     d = load("../data/NLSPARQL.train.data")
     print(d)
+
+    iob_file = "../data/NLSPARQL.train.data"
+    pos_file = "../data/NLSPARQL.train.feats.txt"
+    out_file = "../data/NLSPARQL.train.iob.pref.data"
+    write_prefix_iob(iob_file, "../data/NLSPARQL.train.iob.pref.data")
+    write_suffix_iob(iob_file, "../data/NLSPARQL.train.iob.suff.data")
+
+    write_pref_pos_iob(iob_file, pos_file, "../data/NLSPARQL.train.pref.pos.data")
+    write_suff_pos_iob(iob_file, pos_file, "../data/NLSPARQL.train.suff.pos.data")
+
+    iob_file = "../data/NLSPARQL.test.data"
+    pos_file = "../data/NLSPARQL.test.feats.txt"
+    out_file = "../data/NLSPARQL.test.iob.pref.data"
+    write_prefix_iob(iob_file, "../data/NLSPARQL.test.iob.pref.data")
+    write_suffix_iob(iob_file, "../data/NLSPARQL.test.iob.suff.data")
+
+    write_pref_pos_iob(iob_file, pos_file, "../data/NLSPARQL.test.pref.pos.data")
+    write_suff_pos_iob(iob_file, pos_file, "../data/NLSPARQL.test.suff.pos.data")
+

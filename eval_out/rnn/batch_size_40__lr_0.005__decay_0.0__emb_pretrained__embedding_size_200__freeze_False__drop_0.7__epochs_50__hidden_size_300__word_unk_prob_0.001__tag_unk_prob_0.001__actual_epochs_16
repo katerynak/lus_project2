@@ -1,0 +1,24 @@
+processed 7117 tokens with 1091 phrases; found: 1136 phrases; correct: 823.
+accuracy:  93.28%; precision:  72.45%; recall:  75.44%; FB1:  73.91
+       actor.name: precision:  70.71%; recall:  87.50%; FB1:  78.21  99
+actor.nationality: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+       actor.type: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+   award.category: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+   award.ceremony: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+   character.name: precision:  71.43%; recall:  66.67%; FB1:  68.97  14
+     country.name: precision:  58.14%; recall:  80.65%; FB1:  67.57  86
+    director.name: precision:  67.57%; recall:  61.73%; FB1:  64.52  74
+director.nationality: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+      movie.genre: precision:  89.66%; recall:  72.22%; FB1:  80.00  29
+movie.gross_revenue: precision:  20.00%; recall:  20.00%; FB1:  20.00  5
+   movie.language: precision:  74.19%; recall:  66.67%; FB1:  70.23  62
+   movie.location: precision:   0.00%; recall:   0.00%; FB1:   0.00  3
+       movie.name: precision:  74.85%; recall:  81.82%; FB1:  78.18  517
+movie.release_date: precision:  62.50%; recall:  68.97%; FB1:  65.57  32
+movie.release_region: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+movie.star_rating: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+    movie.subject: precision:  88.10%; recall:  84.09%; FB1:  86.05  42
+       movie.type: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+      person.name: precision:  51.16%; recall:  64.71%; FB1:  57.14  43
+    producer.name: precision:  71.21%; recall:  64.38%; FB1:  67.63  66
+      rating.name: precision:  90.48%; recall:  93.44%; FB1:  91.94  63

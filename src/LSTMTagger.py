@@ -25,6 +25,7 @@ class LSTMTagger(nn.Module):
         self.tagset_size = tagset_size
         self.device = device
         if pretrained_embeddings:
+            embedding_dim = 300
             self.word_embeddings = nn.Embedding.from_pretrained(torch.FloatTensor(w2v_weights), freeze=freeze)
             self.word_embeddings.max_norm = 6
         else:

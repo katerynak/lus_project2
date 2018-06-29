@@ -3,7 +3,8 @@ from torch.utils.data import Dataset
 import torch.nn.functional as F
 import torch
 import numpy as np
-
+from sklearn.utils import shuffle
+import os
 
 def load(filename):
     """
@@ -171,6 +172,126 @@ def seq_batch(batch):
     return data, labels#, char_data
 
 
+def test_dev_split(train_rate=0.8, trainFile="../data/NLSPARQL.train.data"):
+
+    """
+    function splits test and train file in different files to be used for cross validation,
+    split is based on number of phrases and not number of lines
+    """
+
+    data = pd.read_csv(trainFile, sep="\s+", header=None, skip_blank_lines=False)
+    data.columns = ['tokens', 'tags']
+    delimiters = []
+    delim = [0]
+    tmp = pd.isnull(data).any(1).nonzero()[0].tolist()
+    for d in tmp:
+        delim.append(d)
+        delimiters.append(delim)
+        delim = [d]
+
+    # shuffle phrases
+    delimiters = shuffle(delimiters)
+
+    # count test phrases
+    train_size = int(len(delimiters)*train_rate)
+
+    train_delimiters = delimiters[0:train_size]
+    dev_delimiters = delimiters[train_size:]
+
+    train_data = pd.DataFrame()
+    dev_data = pd.DataFrame()
+
+    for id in train_delimiters:
+        train_data = train_data.append(data.loc[id[0]:id[1] - 1, :], ignore_index=True)
+
+    for id in dev_delimiters:
+        dev_data = dev_data.append(data.loc[id[0]:id[1] - 1, :], ignore_index=True)
+
+    train_file = "../data/NLSPARQL.train"
+    dev_file = "../data/NLSPARQL.dev"
+
+    train_data.iloc[1:].to_csv(train_file, index=None, header=None, sep='\t', mode='w')
+    dev_data.iloc[1:].to_csv(dev_file, index=None, header=None, sep='\t', mode='w')
+
+    with open(train_file, mode='a') as f:
+        f.write('\n')
+
+    with open(dev_file, mode='a') as f:
+        f.write('\n')
+
+
+def count_tokens(filename):
+    data = pd.read_csv(filename, sep='\t', header=None)
+    data.columns = ['tokens', 'tags']
+    tok_counts = pd.DataFrame(data['tokens'].value_counts().reset_index())
+    tok_counts.columns = ['tokens', 'tokens_counts']
+
+
+def count_tags(filename):
+    data = pd.read_csv(filename, sep='\t', header=None)
+    data.columns = ['tokens', 'tags']
+    pos_counts = pd.DataFrame(data['tags'].value_counts().reset_index())
+    pos_counts.columns = ['tags', 'tags_counts']
+
+
+def print_dists( inputFile, filelabel=""):
+    """
+    plots distribution of current dataFrame data
+    """
+    import matplotlib.pyplot as plt
+
+    data = pd.read_csv(inputFile, sep='\t', header=None)
+    data.columns = ['tokens', 'tags']
+
+    dir = "../plots/"
+    if not os.path.exists(dir):
+        os.makedirs(dir)
+
+    fig = plt.figure()
+    dist = data['tags'].value_counts(normalize=False)
+    dist.index = [x[2:] if x != 'O' else x for x in dist.index]
+    dist = dist.groupby(level=0).sum().sort_values(ascending=False)
+    plt.xlabel("Concepts")
+    plt.ylabel("Frequency")
+    dist[1:].plot(kind='bar')
+    plt.tight_layout()
+    plt.show()
+    fig.savefig(dir + filelabel + "_tags_dist" + ".pdf", format='pdf')
+
+    fig = plt.figure()
+    dist = data['tokens'].value_counts(normalize=False)
+    plt.xlabel("Tokens")
+    plt.ylabel("Frequency")
+    dist[:30].plot(kind='bar')
+    plt.tight_layout()
+    # plt.show()
+    fig.savefig(dir + filelabel + "_tokens_dist" + ".pdf", format='pdf')
+
+
+def unk_count(self, testFile, trainFile):
+    train = pd.read_csv(trainFile, sep='\t', header=None)
+    train.columns = ['tokens', 'tags']
+
+    test = pd.read_csv(testFile, sep='\t', header=None)
+    test.columns = ['tokens', 'tags']
+
+    train_tokens = train['tokens'].unique().tolist()
+    test_tokens = test['tokens'].unique().tolist()
+
+    unk_unique = list(set(test_tokens) - set(train_tokens))
+
+    unk = [x for x in test['tokens'].tolist() if x not in train_tokens]
+
+    train_tags = train['tags'].unique().tolist()
+    test_tags = test['tags'].unique().tolist()
+
+    unk_unique_tag = list(set(test_tags) - set(train_tags))
+
+    unk_tag = [x for x in test['tags'].tolist() if x not in train_tags]
+
+
+
+
 class Wrapped_dataset(Dataset):
     """
     wraps dataset with pytorch Dataset class
@@ -193,10 +314,10 @@ class Wrapped_dataset(Dataset):
             sample = {'sentence': sentence, 'tags': tags}
             if self.transform:
                 sample = self.transform(sample)
-            if len(sample['tags'])>maxlen:
-                maxlen=len(sample['tags'])
+            if len(sample['tags']) > maxlen:
+                maxlen = len(sample['tags'])
             self.samples.append(sample)
-        #padding
+        # padding
         for idx in range(len(self.data)):
             self.samples[idx]['sentence'] = F.pad(self.samples[idx]['sentence'], (0, maxlen-len(self.samples[idx]['sentence'])), 'constant', 0)
             self.samples[idx]['tags'] = F.pad(self.samples[idx]['tags'],
@@ -233,3 +354,5 @@ if __name__== "__main__":
     write_pref_pos_iob(iob_file, pos_file, "../data/NLSPARQL.test.pref.pos.data")
     write_suff_pos_iob(iob_file, pos_file, "../data/NLSPARQL.test.suff.pos.data")
 
+    testFile = "../data/NLSPARQL.test.data"
+    trainFile = "../data/NLSPARQL.train"

@@ -28,6 +28,7 @@ class RNN(nn.Module):
         self.tagset_size = tagset_size
         self.device = device
         if pretrained_embeddings:
+            embedding_dim = 300
             self.word_embeddings = nn.Embedding.from_pretrained(torch.FloatTensor(w2v_weights), freeze=freeze)
             self.word_embeddings.max_norm = 6
         else:
@@ -88,11 +89,8 @@ class RNN(nn.Module):
         """
         if self.jordan:
             rnn_out, hidden = self.rnn(embeds, rnn_out)
-            print(rnn_out.shape)
-            print(hidden.shape)
         else:
             rnn_out, hidden = self.rnn(embeds, hidden)
-
         # send output to fc layer(s)
         tag_space = self.hidden2tag(rnn_out.unsqueeze(1).contiguous())
         tag_scores = F.log_softmax(tag_space, dim=3)

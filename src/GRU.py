@@ -24,6 +24,7 @@ class GRU(nn.Module):
         self.tagset_size = tagset_size
         self.device = device
         if pretrained_embeddings:
+            embedding_dim = 300
             self.word_embeddings = nn.Embedding.from_pretrained(torch.FloatTensor(w2v_weights), freeze=freeze)
             self.word_embeddings.max_norm = 6
         else:
@@ -86,4 +87,3 @@ class GRU(nn.Module):
         tag_space = self.hidden2tag(gru_out.unsqueeze(1).contiguous())
         tag_scores = F.log_softmax(tag_space, dim=3)
         return tag_scores.view(-1, self.tagset_size), labels.view(-1)
-

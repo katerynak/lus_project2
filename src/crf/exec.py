@@ -10,6 +10,7 @@ if __name__== "__main__":
 
     temp_dir = "./templates/"
     templates = [f for f in listdir(temp_dir) if isfile(join(temp_dir, f))]
+    print(templates)
     train_files = ["../../data/NLSPARQL.train.pref.pos.data",
                    "../../data/NLSPARQL.train.iob.pref.data",
                    "../../data/NLSPARQL.train.iob.suff.data"]
@@ -37,8 +38,8 @@ if __name__== "__main__":
                                                                                 freq,
                                                                                 template,
                                                                                 train_file)
-            if os.path.isfile(out_file):
-                continue
+            #if os.path.isfile(out_file):
+            #    continue
 
             subprocess.call("crf_learn -a {} -c {} -f {} -p 8 -m 100 {} {} model".format(alg, c,
                                                                                          freq,

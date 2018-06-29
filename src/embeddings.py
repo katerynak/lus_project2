@@ -30,7 +30,7 @@ def create_w2id(vocab):
     return w2id
 
 
-def doc2ids(doc, word2id):
+def doc2ids(doc, word2id, unk_probability = 0):
     """
     converts document to list of unique ids
     :param doc: document
@@ -45,6 +45,8 @@ def doc2ids(doc, word2id):
             idx = word2id.get(word.capitalize(), word2id['UNK'])
             if idx == word2id['UNK']:
                 print("mapped as unknown:" + word)
+        if np.random.choice([True, False], p=[unk_probability, 1-unk_probability]):
+            idx = word2id['UNK']
         idxs.append(idx)
     return torch.tensor(idxs, dtype=torch.long)
 

@@ -2,6 +2,7 @@ from subprocess import call, check_output
 import pandas as pd
 from data_elaboration import load
 from embeddings import vocabulary, create_w2id
+import os
 
 
 def write_pred_result(x, y_true, y_pred, predFileName):
@@ -34,3 +35,17 @@ def evaluate(predFileName, evalFileName):
     precision = check_output("awk '{print $4}' " + "{0} |sed '2q;d'".format(evalFileName), shell=True).decode("utf-8")[:-3]
     recall = check_output("awk '{print $6}' " + "{0} |sed '2q;d'".format(evalFileName), shell=True).decode("utf-8")[:-3]
     return accuracy, precision, recall, f1_score
+
+
+def get_max_score(dir):
+    maxscore = 0
+    maxfile = ""
+    for file in os.listdir(dir):
+        f1_score = check_output("awk '{print $8}' " + "{0} |sed '2q;d'".format(dir + file), shell=True).decode("utf-8")[:-2]
+        #print(f1_score)
+        if float(f1_score)>maxscore:
+            maxscore = float(f1_score)
+            maxfile = file
+
+    print("maxscore is {}".format(maxscore))
+    print("found in file {}".format(maxfile))
